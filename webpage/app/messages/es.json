@@ -1,0 +1,445 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "cta": "Obtener Consulta"
+  },
+  "hero": {
+    "badge": "Cloud · Ingeniería de Datos · IA",
+    "title": "Transforma tus Datos en",
+    "titleHighlight": "Ventaja Competitiva",
+    "subtitle": "Absoludata ayuda a las organizaciones a simplificar operaciones complejas a través de soluciones cloud, ingeniería de datos, analítica e inteligencia artificial — diseñado para velocidad y escala.",
+    "scheduleCta": "Agendar Consulta",
+    "exploreServices": "Explorar Servicios",
+    "viewSuccessStories": "Ver Casos de Éxito"
+  },
+  "servicesSection": {
+    "eyebrow": "Lo Que Hacemos",
+    "heading": "Servicios Principales",
+    "subheading": "Soluciones de extremo a extremo en el stack moderno de datos e IA.",
+    "learnMore": "Saber más",
+    "items": {
+      "dataEngineering": {
+        "title": "Ingeniería de Datos",
+        "description": "Construye pipelines de datos escalables y confiables, e infraestructura de datos moderna que impulsan tus iniciativas de analítica e IA."
+      },
+      "analytics": {
+        "title": "Analítica",
+        "description": "Transforma datos brutos en inteligencia de negocio accionable con plataformas avanzadas de analítica y dashboards."
+      },
+      "applications": {
+        "title": "Aplicaciones",
+        "description": "Desarrolla aplicaciones cloud-native diseñadas para rendimiento, escalabilidad e integración fluida con tu ecosistema de datos."
+      },
+      "ai": {
+        "title": "Inteligencia Artificial",
+        "description": "Implementa flujos de trabajo inteligentes y automatización impulsada por IA que reducen la complejidad operativa y aumentan la eficiencia."
+      },
+      "webDevelopment": {
+        "title": "Desarrollo Web",
+        "description": "Construimos sitios web personalizados adaptados a las necesidades de tu negocio — rápidos, responsivos y diseñados para convertir visitantes en clientes."
+      }
+    }
+  },
+  "whyAbsoludata": {
+    "eyebrow": "Por Qué Elegirnos",
+    "heading": "Por Qué Absoludata",
+    "subheading": "Combinamos profundidad técnica con claridad empresarial para entregar soluciones que importan.",
+    "items": {
+      "expertise": {
+        "title": "Experiencia Especializada",
+        "description": "Conocimiento profundo en ingeniería de datos, tecnologías cloud, analítica, IA y telecomunicaciones."
+      },
+      "delivery": {
+        "title": "Entrega Más Rápida",
+        "description": "Enfoque de implementación lean y ágil centrado en entrega rápida y resultados de negocio medibles."
+      },
+      "cloudNative": {
+        "title": "Soluciones Cloud-Native",
+        "description": "Arquitecturas modernas diseñadas para escalabilidad, flexibilidad y eficiencia de costos a cualquier escala."
+      },
+      "aiAutomation": {
+        "title": "Automatización Impulsada por IA",
+        "description": "Flujos de trabajo inteligentes y soluciones potenciadas por IA que reducen la complejidad operativa y aumentan la eficiencia."
+      }
+    }
+  },
+  "customSolutions": {
+    "eyebrow": "Hecho Para tu Negocio",
+    "heading": "Soluciones a Medida",
+    "subheading": "Problemas reales que resolvemos para nuestros clientes con IA y herramientas a medida — explicados de forma simple.",
+    "challengeLabel": "El Problema",
+    "solutionLabel": "Nuestra Solución",
+    "resultLabel": "El Impacto",
+    "items": {
+      "telecomReports": {
+        "tag": "Telecomunicaciones",
+        "title": "De Datos de Red en Bruto a Reportes Listos para el Cliente — Casi al Instante",
+        "challenge": "Los ingenieros de red pasan horas convirtiendo datos de rendimiento en bruto en reportes de optimización pulidos para los clientes — reescribiendo gran parte del mismo documento, proyecto tras proyecto.",
+        "solution": "Construimos una aplicación web a medida impulsada por los modelos de IA generativa más recientes, precargada con el contexto de tu negocio, los detalles del proyecto y los estándares técnicos. Redacta automáticamente un reporte listo para el cliente — tus expertos simplemente lo revisan y aprueban en lugar de escribir desde cero.",
+        "result": "Horas de redacción ahorradas en cada reporte, entregado con el mismo estándar de calidad que tus clientes ya esperan."
+      },
+      "logisticsRouting": {
+        "tag": "Logística y Transporte de Carga",
+        "title": "Convirtiendo Kilómetros Vacíos en Kilómetros Rentables",
+        "challenge": "Uno de los problemas más costosos en el transporte de carga es el viaje de regreso vacío — un camión entrega una carga completa de ida y regresa vacío, quemando combustible y tiempo sin generar ingresos.",
+        "solution": "Construimos herramientas de IA a medida que combinan continuamente la capacidad de camiones disponible con la demanda de envíos cercana, sugiriendo automáticamente las rutas y cargas de regreso más rentables antes de que un camión salga vacío.",
+        "result": "Menos kilómetros vacíos, menores costos de combustible y más entregas completadas con la misma flota."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Enfoque Industrial",
+    "heading": "Industrias que Atendemos",
+    "subheading": "Experiencia profunda en los sectores más intensivos en datos.",
+    "items": {
+      "telecom": {
+        "title": "Telecomunicaciones",
+        "description": "Analítica de red, inteligencia de suscriptores, predicción de churn y automatización operativa para operadores telecom."
+      },
+      "finance": {
+        "title": "Servicios Financieros",
+        "description": "Analítica de riesgo, detección de fraude, reportes regulatorios e inteligencia de clientes para bancos y fintechs."
+      },
+      "retail": {
+        "title": "Retail",
+        "description": "Analítica de clientes, pronóstico de demanda, optimización de inventario e inteligencia de cadena de suministro."
+      },
+      "marketing": {
+        "title": "Marketing",
+        "description": "Analítica de campañas, modelado de atribución, segmentación de audiencias y optimización del ROI."
+      },
+      "logistics": {
+        "title": "Logística",
+        "description": "Optimización de rutas, inteligencia de entregas, analítica de flotas y soluciones de eficiencia de última milla."
+      }
+    }
+  },
+  "successStories": {
+    "eyebrow": "Resultados Comprobados",
+    "heading": "Casos de Éxito",
+    "subheading": "Proyectos reales, resultados reales — un vistazo a cómo hemos ayudado a nuestros clientes a convertir datos en resultados.",
+    "readCase": "Leer Caso de Estudio Completo",
+    "backToStories": "Volver a Casos de Éxito",
+    "challengeLabel": "El Desafío",
+    "approachLabel": "Nuestro Enfoque",
+    "resultsLabel": "Los Resultados",
+    "technologiesLabel": "Tecnologías Utilizadas",
+    "ctaHeading": "¿Listo para Escribir tu Caso de Éxito?",
+    "ctaSubheading": "Hablemos sobre tu desafío de datos y cómo podemos ayudarte a resolverlo.",
+    "ctaButton": "Hablemos de tu Proyecto",
+    "items": {
+      "telecomChurn": {
+        "client": "Operador de Telecomunicaciones",
+        "title": "Reduciendo el Churn de Suscriptores con Analítica Predictiva",
+        "tagline": "Cómo la inteligencia de suscriptores en tiempo real convirtió una retención reactiva en un programa proactivo que protege ingresos.",
+        "description": "Un operador telecom regional estaba perdiendo suscriptores de alto valor sin un sistema de alerta temprana. Construimos una plataforma de inteligencia de suscriptores en tiempo real que califica el riesgo de churn diariamente y activa ofertas de retención dirigidas automáticamente.",
+        "overview": "El equipo de retención de este operador siempre iba un paso atrás — cuando un suscriptor llamaba para cancelar, la decisión ya estaba tomada. Trabajamos con ellos para reemplazar la retención reactiva por un programa proactivo basado en datos.",
+        "challenge": "El churn de suscriptores iba en aumento y el equipo de retención no tenía forma de saber quién estaba en riesgo hasta que era demasiado tarde. Las ofertas de retención se enviaban a segmentos amplios en lugar de a los clientes con mayor probabilidad de irse, desperdiciando presupuesto sin lograr resultados.",
+        "approach": "Construimos una plataforma de inteligencia de suscriptores en tiempo real que ingiere datos de uso, facturación y eventos de red, y luego califica el riesgo de churn de cada suscriptor diariamente usando un modelo entrenado con 18 meses de comportamiento histórico. Los puntajes de riesgo alimentan directamente el flujo de trabajo del equipo de retención, activando ofertas personalizadas automáticamente para suscriptores de alto riesgo y alto valor.",
+        "approachBullets": [
+          "Ingesta en streaming de eventos de red y facturación",
+          "Modelo diario de puntuación de riesgo de churn",
+          "Activación automática y escalonada de ofertas de retención",
+          "Dashboard operativo en tiempo real para el equipo de retención"
+        ],
+        "results": "Durante los primeros dos trimestres tras el lanzamiento, el operador vio una reducción medible en el churn voluntario y una asignación más saludable del presupuesto de retención hacia los suscriptores que realmente lo necesitaban.",
+        "technologies": ["Apache Kafka", "Python", "XGBoost", "Amazon Redshift", "Grafana"],
+        "testimonial": {
+          "quote": "Esta plataforma le dio a nuestro equipo de retención un superpoder — ahora sabemos quién está en riesgo antes de que llame para cancelar.",
+          "role": "VP de Operaciones de Clientes, cliente Operador de Telecomunicaciones"
+        },
+        "stats": [
+          { "value": "32%", "label": "Reducción de Churn" },
+          { "value": "2.1M", "label": "Eventos Procesados / Día" },
+          { "value": "8 sem", "label": "Tiempo de Lanzamiento" }
+        ]
+      },
+      "retailForecasting": {
+        "client": "Cadena de Retail",
+        "title": "Pronóstico de Demanda Más Inteligente en 120 Tiendas",
+        "tagline": "Convirtiendo el ruido del punto de venta en pronósticos por tienda en los que el equipo de merchandising realmente podía confiar.",
+        "description": "El pronóstico manual basado en hojas de cálculo causaba sobrestock y desabasto crónicos. Diseñamos una plataforma de pronóstico de demanda y optimización de inventario que ingiere datos de punto de venta y cadena de suministro para generar pronósticos por tienda automáticamente.",
+        "overview": "El equipo de planeación de esta cadena de retail libraba una batalla perdida contra las hojas de cálculo. Los ayudamos a reemplazar el pronóstico manual por una plataforma de autoservicio en la que su equipo de merchandising realmente podía confiar.",
+        "challenge": "Pronosticar la demanda era un proceso manual basado en hojas de cálculo, mantenido por un equipo pequeño, sin forma de considerar estacionalidad, promociones o tendencias locales por tienda. El resultado era sobrestock crónico en categorías de baja rotación y desabasto en los productos más vendidos — inmovilizando capital de trabajo y dejando ingresos sobre la mesa.",
+        "approach": "Diseñamos una plataforma de pronóstico de demanda y optimización de inventario que ingiere datos de punto de venta, proveedores y calendario promocional, y genera pronósticos por tienda y por SKU automáticamente. Una capa de autoservicio permite a los equipos de merchandising y cadena de suministro ajustar supuestos y ver el pronóstico actualizarse en tiempo real.",
+        "approachBullets": [
+          "Ingesta automatizada de datos de punto de venta y cadena de suministro",
+          "Modelos de demanda por tienda y por SKU",
+          "Pronóstico sensible a promociones y estacionalidad",
+          "Capa de ajuste de autoservicio para equipos de merchandising"
+        ],
+        "results": "La asignación de inventario se convirtió en un proceso basado en datos en lugar de una adivinanza, liberando capital de trabajo y mejorando la disponibilidad en anaquel en toda la cadena.",
+        "technologies": ["dbt", "Snowflake", "Python", "Power BI", "Airflow"],
+        "testimonial": {
+          "quote": "Por primera vez, nuestro equipo de merchandising confía lo suficiente en el pronóstico como para actuar sin verificarlo dos veces en una hoja de cálculo.",
+          "role": "VP de Cadena de Suministro, cliente Cadena de Retail"
+        },
+        "stats": [
+          { "value": "24%", "label": "Menos Inventario Excedente" },
+          { "value": "120", "label": "Tiendas Integradas" },
+          { "value": "99.9%", "label": "Disponibilidad del Pipeline" }
+        ]
+      },
+      "financeAutomation": {
+        "client": "Firma de Servicios Financieros",
+        "title": "Automatización con IA para Reportes de Cumplimiento",
+        "tagline": "Reemplazando un ciclo de reportes manual y propenso a errores por un flujo auditable asistido por IA.",
+        "description": "Los reportes regulatorios eran un proceso manual, propenso a errores y disperso en sistemas desconectados. Implementamos un flujo de automatización impulsado por IA que consolida datos, señala anomalías y genera reportes listos para auditoría.",
+        "overview": "La semana de reportes solía significar noches enteras reconciliando hojas de cálculo entre una docena de sistemas. Ayudamos a esta firma a convertir ese simulacro de incendio en un flujo rutinario y auditable.",
+        "challenge": "Los reportes regulatorios dependían de analistas reconciliando manualmente datos de más de una docena de sistemas desconectados en cada ciclo de reporte. El proceso era lento, difícil de auditar, y un solo error de captura podía generar un hallazgo de cumplimiento.",
+        "approach": "Implementamos un flujo de automatización impulsado por IA que consolida datos de cada sistema fuente en una vista única y reconciliada, usa detección de anomalías para señalar registros que necesitan revisión humana, y genera automáticamente reportes listos para auditoría con un linaje de datos completo.",
+        "approachBullets": [
+          "Consolidación automatizada de datos en más de 15 sistemas fuente",
+          "Detección de anomalías basada en ML para revisión de excepciones",
+          "Generación de reportes listos para auditoría con linaje de datos completo",
+          "Flujo de revisión y aprobación basado en roles"
+        ],
+        "results": "El ciclo de reportes se volvió drásticamente más rápido, las horas de los analistas pasaron de la reconciliación manual a la revisión de excepciones señaladas, y la firma ha mantenido un historial de cumplimiento limpio desde el lanzamiento.",
+        "technologies": ["AWS Glue", "Python", "Amazon Bedrock", "PostgreSQL", "Metabase"],
+        "testimonial": {
+          "quote": "Antes le temíamos a la semana de reportes. Ahora es un paso de revisión, no un simulacro de incendio.",
+          "role": "Jefe de Cumplimiento, cliente Firma de Servicios Financieros"
+        },
+        "stats": [
+          { "value": "70%", "label": "Ciclo de Reporte Más Rápido" },
+          { "value": "15+", "label": "Sistemas Integrados" },
+          { "value": "0", "label": "Hallazgos de Cumplimiento Desde el Lanzamiento" }
+        ]
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Voces de Clientes",
+    "heading": "Lo Que Dicen Nuestros Clientes",
+    "subheading": "Comentarios de los equipos con los que hemos trabajado — testimonios de ejemplo mostrados abajo hasta ser reemplazados por testimonios reales de clientes.",
+    "leaveReview": {
+      "heading": "Comparte Tu Experiencia",
+      "subheading": "¿Trabajaste con Absoludata? Nos encantaría destacar tu historia aquí.",
+      "name": "Tu Nombre",
+      "company": "Empresa / Cargo",
+      "rating": "Tu Calificación",
+      "review": "Tu Reseña",
+      "reviewPlaceholder": "Cuéntanos sobre tu experiencia trabajando con nosotros...",
+      "submit": "Enviar Reseña",
+      "disclaimer": "Las reseñas enviadas son revisadas por nuestro equipo antes de ser publicadas."
+    },
+    "items": {
+      "sample1": {
+        "quote": "Este es un testimonio de ejemplo. Reemplázalo con una cita directa de un cliente describiendo el impacto de su trabajo en conjunto.",
+        "name": "Nombre del Cliente",
+        "role": "Cargo, Empresa"
+      },
+      "sample2": {
+        "quote": "Este es un testimonio de ejemplo. Reemplázalo con una cita directa de un cliente describiendo el impacto de su trabajo en conjunto.",
+        "name": "Nombre del Cliente",
+        "role": "Cargo, Empresa"
+      },
+      "sample3": {
+        "quote": "Este es un testimonio de ejemplo. Reemplázalo con una cita directa de un cliente describiendo el impacto de su trabajo en conjunto.",
+        "name": "Nombre del Cliente",
+        "role": "Cargo, Empresa"
+      }
+    }
+  },
+  "blog": {
+    "eyebrow": "Novedades y Perspectivas",
+    "heading": "Desde Nuestro Equipo",
+    "subheading": "Perspectivas sobre datos, cloud e IA — además de un vistazo detrás de escena de las soluciones que construimos para nuestros clientes.",
+    "readMore": "Leer Artículo",
+    "backToBlog": "Volver al Blog",
+    "readFullCaseStudy": "Leer el Caso de Estudio Completo",
+    "cta": {
+      "heading": "¿Listo para Hablar Sobre tus Datos?",
+      "subheading": "Exploremos cómo Absoludata puede ayudar a tu organización.",
+      "button": "Agendar una Consulta"
+    },
+    "items": {
+      "dataPlatformReadiness": {
+        "category": "Ingeniería de Datos",
+        "date": "2026-06-18",
+        "readTime": "6 min de lectura",
+        "author": "Equipo Absoludata",
+        "title": "5 Señales de que tu Organización Está Lista para una Plataforma de Datos Moderna",
+        "excerpt": "Si las hojas de cálculo son tu fuente de verdad y cada reporte tarda una semana en producirse, puede ser momento de repensar tu infraestructura de datos. Así puedes saberlo con certeza.",
+        "intro": "La mayoría de las organizaciones no se despiertan un día y deciden invertir en una plataforma de datos moderna. Sucede gradualmente — un reporte que solía tomar una hora ahora toma dos días, un dashboard que solía ser confiable ahora se verifica dos veces en una hoja de cálculo, y cada equipo parece tener su propia versión de los números. Estas son las cinco señales que vemos con más frecuencia antes de que un cliente decida que es momento de cambiar.",
+        "sections": [
+          {
+            "heading": "1. Tus Reportes Tardan Días, No Minutos",
+            "text": "Si producir un reporte mensual o semanal significa que alguien extrae manualmente datos de cinco sistemas distintos y los une en una hoja de cálculo, el cuello de botella no es tu equipo — es la ausencia de un pipeline que haga ese trabajo automáticamente."
+          },
+          {
+            "heading": "2. Cada Equipo Tiene su Propia Versión de la Verdad",
+            "text": "Cuando finanzas, marketing y operaciones reportan cada uno un número distinto para la misma métrica, rara vez es un error de cálculo. Usualmente es una señal de que cada equipo extrae datos de su propia fuente desconectada en lugar de una fuente única y gobernada."
+          },
+          {
+            "heading": "3. Estás Tomando Decisiones con Datos Que Ya Están Desactualizados",
+            "text": "Las exportaciones por lotes que corren durante la noche o una vez a la semana estaban bien cuando el negocio se movía más lento. Si tu equipo reacciona a lo que pasó la semana pasada en lugar de lo que pasa hoy, tu velocidad de decisión está limitada por tu infraestructura de datos."
+          },
+          {
+            "heading": "4. Escalar Significa Contratar Más Analistas, No Construir Mejores Sistemas",
+            "text": "Si la respuesta a 'necesitamos más reportes' siempre es 'necesitamos contratar otro analista', es señal de que el pipeline subyacente no está escalando — el trabajo manual solo se está repartiendo entre más personas."
+          },
+          {
+            "heading": "5. Tu Equipo Pasa Más Tiempo Preparando Datos Que Analizándolos",
+            "text": "Las personas más costosas de tu equipo deberían pasar su tiempo encontrando insights, no limpiando archivos CSV. Cuando la preparación de datos consume la mayor parte de la semana, el retorno de tu inversión en analítica cae drásticamente."
+          }
+        ],
+        "closing": "Si dos o más de estas señales te suenan familiares, usualmente no es un problema de personas — es de infraestructura. Una plataforma de datos moderna no significa reemplazar todo de la noche a la mañana; significa construir los pipelines, el almacenamiento y la gobernanza que permiten a tu equipo dedicar su tiempo a generar insights en lugar de mantenimiento."
+      },
+      "telecomChurnBehindTheScenes": {
+        "category": "Casos de Éxito",
+        "date": "2026-05-02",
+        "readTime": "7 min de lectura",
+        "author": "Equipo Absoludata",
+        "title": "Detrás de los Números: Cómo la Analítica Predictiva Redujo el Churn Telecom en un 32%",
+        "excerpt": "Un vistazo detrás de escena a la plataforma de predicción de churn que construimos para un operador telecom regional — y las tres decisiones que la hicieron funcionar.",
+        "intro": "Recientemente terminamos un proyecto con un operador telecom regional que redujo el churn voluntario en un 32% en dos trimestres. El caso de estudio completo cubre el resultado — esta publicación trata sobre las decisiones detrás de él, incluyendo un par que casi tomamos mal.",
+        "sections": [
+          {
+            "heading": "El Problema de la Retención Reactiva",
+            "text": "Cuando empezamos, el equipo de retención solo se enteraba de que un suscriptor estaba en riesgo cuando ese suscriptor llamaba para cancelar — momento en el que la decisión ya estaba tomada. El equipo quería un sistema de alerta, pero la brecha real era que nadie había conectado antes los datos de facturación, uso y red en una sola vista de la salud del suscriptor."
+          },
+          {
+            "heading": "Por Qué Calificamos el Riesgo a Diario en Lugar de en Tiempo Real",
+            "text": "Era tentador construir un sistema de puntuación en tiempo real — suena más impresionante. Pero el riesgo de churn no aparece en milisegundos; se acumula durante días y semanas de comportamiento. Un puntaje diario por lotes le dio al modelo una señal más estable con la cual trabajar, y fue mucho más simple de operar y depurar que un sistema en streaming. Ganó la simplicidad."
+          },
+          {
+            "heading": "Convertir un Modelo en Algo que el Equipo de Retención Realmente Usaría",
+            "text": "Un puntaje de churn solo es útil si alguien actúa con base en él. En lugar de entregarle al equipo de retención una hoja de cálculo con puntajes de riesgo, conectamos la salida del modelo directamente a su flujo de trabajo existente, activando ofertas de retención escalonadas y preaprobadas automáticamente para los suscriptores que más valía la pena retener."
+          },
+          {
+            "heading": "Qué Haríamos Diferente la Próxima Vez",
+            "text": "Involucraríamos al equipo de retención en el diseño de las ofertas más temprano. El modelo nos dijo quién estaba en riesgo desde la primera semana, pero tomó algunas semanas adicionales de colaboración lograr que las ofertas correctas coincidieran con los niveles de riesgo correctos — tiempo que pudimos haber ahorrado si los hubiéramos involucrado desde el día uno."
+          }
+        ],
+        "closing": "¿Curioso por conocer los resultados completos? Lee el caso de estudio completo para ver las métricas, la arquitectura y las tecnologías detrás de este proyecto."
+      }
+    }
+  },
+  "cta": {
+    "heading": "Construyamos Soluciones Más Inteligentes Juntos",
+    "subheading": "¿Listo para transformar tus datos en una ventaja competitiva? Agenda una consulta gratuita y exploremos cómo Absoludata puede acelerar tu transformación digital.",
+    "scheduleCta": "Agendar una Consulta Gratuita",
+    "viewServices": "Ver Todos los Servicios"
+  },
+  "footer": {
+    "description": "Ayudamos a las organizaciones a simplificar operaciones complejas a través de soluciones cloud, ingeniería de datos, analítica e inteligencia artificial.",
+    "tagline": "Cloud · Ingeniería de Datos · IA",
+    "copyright": "Absoludata. Todos los derechos reservados.",
+    "sections": {
+      "company": "Empresa",
+      "services": "Servicios"
+    },
+    "links": {
+      "about": "Nosotros",
+      "services": "Servicios",
+      "blog": "Blog",
+      "contact": "Contacto",
+      "dataEngineering": "Ingeniería de Datos",
+      "analytics": "Analítica",
+      "applications": "Aplicaciones",
+      "ai": "Inteligencia Artificial",
+      "webDevelopment": "Desarrollo Web"
+    }
+  },
+  "about": {
+    "eyebrow": "Nosotros",
+    "heading": "Somos Absoludata",
+    "intro": "Una empresa de soluciones de datos y cloud enfocada en transformar la complejidad en claridad para empresas modernas en telecomunicaciones, servicios financieros, retail, marketing y logística.",
+    "mission": {
+      "heading": "Nuestra Misión",
+      "text": "Ayudar a las pequeñas y medianas empresas a aprovechar el poder de los datos, la computación en la nube y la inteligencia artificial — entregando soluciones escalables que mejoran la eficiencia operativa, la automatización y la toma de decisiones."
+    },
+    "vision": {
+      "heading": "Nuestra Visión",
+      "text": "Ser el socio tecnológico de confianza para las organizaciones orientadas a los datos — construyendo la infraestructura inteligente que impulsa los negocios del mañana en cada industria intensiva en datos."
+    },
+    "whatWeDo": {
+      "heading": "Lo Que Hacemos",
+      "subheading": "Absoludata entrega soluciones de datos e IA de extremo a extremo en el stack tecnológico moderno."
+    },
+    "cta": {
+      "heading": "¿Listo para Trabajar Juntos?",
+      "subheading": "Comencemos una conversación sobre cómo Absoludata puede ayudar a tu organización.",
+      "button": "Agendar una Consulta"
+    },
+    "capabilities": {
+      "dataEngineering": { "title": "Ingeniería de Datos", "desc": "Diseñamos y construimos pipelines de datos escalables, lakehouses y arquitecturas de streaming que forman la columna vertebral de tu estrategia de datos." },
+      "cloudSolutions": { "title": "Soluciones Cloud", "desc": "Arquitectamos y desplegamos soluciones cloud-native en AWS y otras plataformas cloud principales, optimizadas para rendimiento y eficiencia de costos." },
+      "analytics": { "title": "Analítica e BI", "desc": "Transformamos datos brutos en inteligencia de negocio significativa a través de dashboards, reportes y plataformas de analítica self-service." },
+      "ai": { "title": "Inteligencia Artificial", "desc": "Implementamos soluciones de IA y machine learning que automatizan decisiones, predicen resultados y desbloquean nuevo valor empresarial." },
+      "telecom": { "title": "Telecomunicaciones", "desc": "Aportamos profunda experiencia en el dominio telecom a la analítica de red, inteligencia de suscriptores y programas de eficiencia operativa." },
+      "appDev": { "title": "Desarrollo de Aplicaciones", "desc": "Construimos aplicaciones cloud-native adaptadas a tus flujos de trabajo, desde productos de datos hasta plataformas orientadas al cliente." }
+    }
+  },
+  "services": {
+    "eyebrow": "Lo Que Ofrecemos",
+    "heading": "Nuestros Servicios",
+    "intro": "Soluciones de datos, cloud e IA de extremo a extremo diseñadas para la empresa moderna.",
+    "cta": {
+      "heading": "¿Listo para Comenzar?",
+      "subheading": "Cuéntanos sobre tu proyecto y construyamos algo grandioso juntos.",
+      "button": "Iniciar una Conversación"
+    },
+    "discussService": "Hablar sobre Este Servicio",
+    "capabilitiesLabel": "Capacidades",
+    "technologiesLabel": "Tecnologías",
+    "items": {
+      "dataEngineering": {
+        "title": "Ingeniería de Datos",
+        "tagline": "Construye la base para decisiones basadas en datos.",
+        "description": "Diseñamos y construimos pipelines de datos escalables, lakehouses y arquitecturas de streaming usando tecnologías cloud modernas. Desde la ingestión hasta la transformación y entrega, garantizamos que tus datos fluyan de manera confiable y eficiente.",
+        "capabilities": ["Diseño y Desarrollo de Pipelines de Datos", "Arquitectura Lakehouse y Data Warehouse", "Streaming en Tiempo Real (Kafka / Kinesis)", "Automatización ETL / ELT", "Frameworks de Calidad y Gobernanza de Datos", "Migración y Modernización Cloud"]
+      },
+      "analytics": {
+        "title": "Analítica",
+        "tagline": "Convierte datos en decisiones.",
+        "description": "Construimos plataformas de analítica avanzada que entregan insights accionables a los stakeholders del negocio. Desde dashboards self-service hasta modelos analíticos complejos, hacemos que los datos sean accesibles y valiosos en toda tu organización.",
+        "capabilities": ["Business Intelligence y Dashboards", "Plataformas de Analítica Self-Service", "Frameworks de KPIs y Metric Stores", "Analítica de Clientes y Productos", "Analítica Predictiva y Pronósticos", "Visualización de Datos y Storytelling"]
+      },
+      "applications": {
+        "title": "Aplicaciones",
+        "tagline": "Construye software que escala con tus datos.",
+        "description": "Desarrollamos aplicaciones cloud-native adaptadas a tus procesos de negocio únicos. Desde productos de datos hasta herramientas internas y plataformas orientadas al cliente, entregamos software construido para rendimiento y mantenibilidad a largo plazo.",
+        "capabilities": ["Desarrollo de Aplicaciones Cloud-Native", "Ingeniería de Productos de Datos", "Diseño y Desarrollo de APIs", "Arquitectura de Microservicios", "Desarrollo de Herramientas Internas", "Ingeniería de Plataformas"]
+      },
+      "ai": {
+        "title": "Inteligencia Artificial",
+        "tagline": "Automatiza la inteligencia a escala.",
+        "description": "Implementamos soluciones de IA y machine learning que reducen la complejidad operativa, automatizan decisiones y crean nuevas fuentes de valor empresarial. Desde el desarrollo del modelo hasta el despliegue en producción, gestionamos el ciclo de vida completo de IA.",
+        "capabilities": ["Desarrollo de Modelos de Machine Learning", "IA Generativa e Integración de LLMs", "Automatización de Flujos de Trabajo con IA", "MLOps y Monitoreo de Modelos", "Estrategia y Hoja de Ruta de IA", "Automatización Inteligente de Procesos"]
+      },
+      "webDevelopment": {
+        "title": "Desarrollo Web",
+        "tagline": "Construye tu presencia digital desde cero.",
+        "description": "Diseñamos y desarrollamos sitios web personalizados adaptados a las necesidades de tu negocio — desde elegantes sitios de marketing hasta plataformas orientadas a datos. Cada sitio que construimos es rápido, responsivo, optimizado para SEO y diseñado para convertir visitantes en clientes.",
+        "capabilities": ["Diseño y Desarrollo Web Personalizado", "Diseño Responsivo y Mobile-First", "Optimización SEO y Rendimiento", "Integración de CMS (WordPress / Headless)", "Desarrollo E-Commerce", "Landing Pages y Sitios de Marketing"]
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contáctanos",
+    "heading": "Hablemos",
+    "intro": "Ya sea que estés explorando un nuevo proyecto, buscando un socio tecnológico, o quieras saber cómo Absoludata puede ayudarte — nos encantaría escucharte.",
+    "options": {
+      "consultation": { "title": "Agendar una Consulta Gratuita", "desc": "Reserva una llamada de 30 minutos con nuestro equipo para discutir tus desafíos de datos y explorar cómo podemos ayudarte." },
+      "inquiry": { "title": "Consulta de Proyecto", "desc": "¿Tienes un proyecto específico en mente? Comparte los detalles y volveremos con una evaluación inicial." },
+      "questions": { "title": "Preguntas Generales", "desc": "¿Quieres saber más sobre nuestros servicios, capacidades o enfoque? Estamos felices de responder cualquier pregunta." }
+    },
+    "form": {
+      "heading": "Envíanos un Mensaje",
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "email": "Correo Empresarial",
+      "company": "Empresa",
+      "message": "¿Cómo Podemos Ayudarte?",
+      "messagePlaceholder": "Cuéntanos sobre tu proyecto o consulta...",
+      "submit": "Enviar Mensaje",
+      "disclaimer": "Te responderemos dentro de 1 día hábil."
+    }
+  }
+}

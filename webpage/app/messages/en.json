@@ -1,0 +1,445 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact",
+    "cta": "Get a Consultation"
+  },
+  "hero": {
+    "badge": "Cloud · Data Engineering · AI",
+    "title": "Transform Your Data Into",
+    "titleHighlight": "Competitive Advantage",
+    "subtitle": "Absoludata helps organizations simplify complex operations through cloud solutions, data engineering, analytics, and artificial intelligence — built for speed and scale.",
+    "scheduleCta": "Schedule Consultation",
+    "exploreServices": "Explore Services",
+    "viewSuccessStories": "See Success Stories"
+  },
+  "servicesSection": {
+    "eyebrow": "What We Do",
+    "heading": "Core Services",
+    "subheading": "End-to-end solutions across the modern data and AI stack.",
+    "learnMore": "Learn more",
+    "items": {
+      "dataEngineering": {
+        "title": "Data Engineering",
+        "description": "Build scalable, reliable data pipelines and modern data infrastructure that power your analytics and AI initiatives."
+      },
+      "analytics": {
+        "title": "Analytics",
+        "description": "Transform raw data into actionable business intelligence with advanced analytics platforms and dashboards."
+      },
+      "applications": {
+        "title": "Applications",
+        "description": "Develop cloud-native applications designed for performance, scalability, and seamless integration with your data ecosystem."
+      },
+      "ai": {
+        "title": "Artificial Intelligence",
+        "description": "Implement intelligent workflows and AI-powered automation that reduce operational complexity and drive efficiency."
+      },
+      "webDevelopment": {
+        "title": "Web Development",
+        "description": "We build custom websites tailored to your business needs — fast, responsive, and designed to convert visitors into clients."
+      }
+    }
+  },
+  "whyAbsoludata": {
+    "eyebrow": "Why Choose Us",
+    "heading": "Why Absoludata",
+    "subheading": "We combine technical depth with business clarity to deliver solutions that matter.",
+    "items": {
+      "expertise": {
+        "title": "Specialized Expertise",
+        "description": "Deep knowledge across data engineering, cloud technologies, analytics, AI, and telecommunications."
+      },
+      "delivery": {
+        "title": "Faster Delivery",
+        "description": "Lean and agile implementation approach focused on rapid delivery and measurable business outcomes."
+      },
+      "cloudNative": {
+        "title": "Cloud-Native Solutions",
+        "description": "Modern architectures designed for scalability, flexibility, and cost efficiency at any scale."
+      },
+      "aiAutomation": {
+        "title": "AI-Driven Automation",
+        "description": "Intelligent workflows and AI-powered solutions that reduce operational complexity and drive efficiency."
+      }
+    }
+  },
+  "customSolutions": {
+    "eyebrow": "Built For Your Business",
+    "heading": "Customized Solutions",
+    "subheading": "Real problems we solve for our clients with AI and custom-built tools — explained simply.",
+    "challengeLabel": "The Challenge",
+    "solutionLabel": "Our Solution",
+    "resultLabel": "The Impact",
+    "items": {
+      "telecomReports": {
+        "tag": "Telecommunications",
+        "title": "From Raw Network Data to Client-Ready Reports — Almost Instantly",
+        "challenge": "Network engineers spend hours turning raw performance data into polished optimization reports for clients — rewriting much of the same document, project after project.",
+        "solution": "We build a custom web application powered by the latest generative AI models, pre-loaded with your business context, project details, and technical standards. It drafts a client-ready report automatically — your experts simply review and approve it instead of writing from a blank page.",
+        "result": "Hours of writing time saved on every report, delivered at the same quality your clients already expect."
+      },
+      "logisticsRouting": {
+        "tag": "Logistics & Cargo Transportation",
+        "title": "Turning Empty Miles Into Profitable Ones",
+        "challenge": "One of the costliest problems in cargo transportation is the empty return trip — a truck delivers a full load one way, then drives back empty, burning fuel and time for zero revenue.",
+        "solution": "We build custom AI tools that continuously match available truck capacity with nearby shipping demand, automatically suggesting the most profitable routes and backhauls before a truck ever leaves empty.",
+        "result": "Fewer empty miles, lower fuel costs, and more deliveries completed with the same fleet."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industry Focus",
+    "heading": "Industries We Serve",
+    "subheading": "Deep domain expertise across the most data-intensive sectors.",
+    "items": {
+      "telecom": {
+        "title": "Telecommunications",
+        "description": "Network analytics, subscriber intelligence, churn prediction, and operational automation for telecom operators."
+      },
+      "finance": {
+        "title": "Financial Services",
+        "description": "Risk analytics, fraud detection, regulatory reporting, and customer intelligence for banks and fintechs."
+      },
+      "retail": {
+        "title": "Retail",
+        "description": "Customer analytics, demand forecasting, inventory optimization, and supply chain intelligence."
+      },
+      "marketing": {
+        "title": "Marketing",
+        "description": "Campaign analytics, attribution modeling, audience segmentation, and ROI optimization."
+      },
+      "logistics": {
+        "title": "Logistics",
+        "description": "Route optimization, delivery intelligence, fleet analytics, and last-mile efficiency solutions."
+      }
+    }
+  },
+  "successStories": {
+    "eyebrow": "Proven Results",
+    "heading": "Success Stories",
+    "subheading": "Real projects, real outcomes — a look at how we've helped our clients turn data into results.",
+    "readCase": "Read Full Case Study",
+    "backToStories": "Back to Success Stories",
+    "challengeLabel": "The Challenge",
+    "approachLabel": "Our Approach",
+    "resultsLabel": "The Results",
+    "technologiesLabel": "Technologies Used",
+    "ctaHeading": "Ready to Write Your Success Story?",
+    "ctaSubheading": "Let's talk about your data challenge and how we can help solve it.",
+    "ctaButton": "Discuss Your Project",
+    "items": {
+      "telecomChurn": {
+        "client": "Telecommunications Operator",
+        "title": "Cutting Subscriber Churn with Predictive Analytics",
+        "tagline": "How real-time subscriber intelligence turned reactive retention into a proactive, revenue-protecting program.",
+        "description": "A regional telecom operator was losing high-value subscribers with no early warning system in place. We built a real-time subscriber intelligence platform that scores churn risk daily and triggers targeted retention offers automatically.",
+        "overview": "This operator's retention team was always one step behind — by the time a subscriber called to cancel, the decision had already been made. We partnered with them to replace reactive retention with a proactive, data-driven program.",
+        "challenge": "Subscriber churn was trending upward and the retention team had no way to know who was at risk until it was too late. Retention offers went out to broad segments instead of the customers most likely to leave, wasting budget without moving the needle.",
+        "approach": "We built a real-time subscriber intelligence platform that ingests usage, billing, and network event data, then scores every subscriber's churn risk daily using a model trained on 18 months of historical behavior. Risk scores feed directly into the retention team's workflow, triggering personalized offers automatically for high-risk, high-value subscribers.",
+        "approachBullets": [
+          "Streaming ingestion of network & billing events",
+          "Daily churn-risk scoring model",
+          "Automated, tiered retention-offer triggers",
+          "Real-time operations dashboard for the retention team"
+        ],
+        "results": "Within the first two quarters after launch, the operator saw a measurable drop in voluntary churn and a healthier allocation of retention budget toward the subscribers who actually needed it.",
+        "technologies": ["Apache Kafka", "Python", "XGBoost", "Amazon Redshift", "Grafana"],
+        "testimonial": {
+          "quote": "This platform gave our retention team a superpower — we finally know who's at risk before they call to cancel.",
+          "role": "VP of Customer Operations, Telecommunications Operator client"
+        },
+        "stats": [
+          { "value": "32%", "label": "Reduction in Churn" },
+          { "value": "2.1M", "label": "Events Processed / Day" },
+          { "value": "8 wks", "label": "Time to Launch" }
+        ]
+      },
+      "retailForecasting": {
+        "client": "Retail Chain",
+        "title": "Smarter Demand Forecasting Across 120 Stores",
+        "tagline": "Turning point-of-sale noise into store-level forecasts the merchandising team could actually trust.",
+        "description": "Manual, spreadsheet-based forecasting was causing chronic overstock and stockouts. We designed a demand forecasting and inventory optimization platform that ingests point-of-sale and supply chain data to generate store-level forecasts automatically.",
+        "overview": "This retail chain's planning team was fighting a losing battle against spreadsheets. We helped them replace manual forecasting with a self-service platform their merchandising team could actually trust.",
+        "challenge": "Forecasting demand was a manual, spreadsheet-driven process maintained by a small team, with no way to account for seasonality, promotions, or local store trends. The result was chronic overstock in slow-moving categories and stockouts on bestsellers — tying up working capital while leaving revenue on the table.",
+        "approach": "We designed a demand forecasting and inventory optimization platform that ingests point-of-sale, supplier, and promotional calendar data, and generates store- and SKU-level forecasts automatically. A self-service layer lets merchandising and supply chain teams adjust assumptions and see the forecast update in real time.",
+        "approachBullets": [
+          "Automated ingestion of POS & supply chain data",
+          "Store-level & SKU-level demand models",
+          "Promotion & seasonality-aware forecasting",
+          "Self-service adjustment layer for merchandising teams"
+        ],
+        "results": "Inventory allocation became a data-driven process instead of a guessing game, freeing up working capital and improving on-shelf availability across the chain.",
+        "technologies": ["dbt", "Snowflake", "Python", "Power BI", "Airflow"],
+        "testimonial": {
+          "quote": "For the first time, our merchandising team trusts the forecast enough to act on it without double-checking it in a spreadsheet.",
+          "role": "VP of Supply Chain, Retail Chain client"
+        },
+        "stats": [
+          { "value": "24%", "label": "Less Excess Inventory" },
+          { "value": "120", "label": "Stores Onboarded" },
+          { "value": "99.9%", "label": "Pipeline Uptime" }
+        ]
+      },
+      "financeAutomation": {
+        "client": "Financial Services Firm",
+        "title": "AI-Powered Automation for Compliance Reporting",
+        "tagline": "Replacing a manual, error-prone reporting cycle with an auditable, AI-assisted workflow.",
+        "description": "Regulatory reporting was a labor-intensive, error-prone process spread across disconnected systems. We implemented an AI-driven automation workflow that consolidates data, flags anomalies, and generates audit-ready reports.",
+        "overview": "Reporting week used to mean all-nighters reconciling spreadsheets across a dozen systems. We helped this firm turn that fire drill into a routine, auditable workflow.",
+        "challenge": "Regulatory reporting depended on analysts manually reconciling data across more than a dozen disconnected systems every reporting cycle. The process was slow, hard to audit, and a single data entry error could trigger a compliance finding.",
+        "approach": "We implemented an AI-driven automation workflow that consolidates data from every source system into a single reconciled view, uses anomaly detection to flag records that need human review, and auto-generates audit-ready reports with a full data lineage trail.",
+        "approachBullets": [
+          "Automated data consolidation across 15+ source systems",
+          "ML-based anomaly detection for exception review",
+          "Audit-ready report generation with full data lineage",
+          "Role-based review & sign-off workflow"
+        ],
+        "results": "The reporting cycle got dramatically faster, analyst hours shifted from manual reconciliation to reviewing flagged exceptions, and the firm has had a clean compliance record since launch.",
+        "technologies": ["AWS Glue", "Python", "Amazon Bedrock", "PostgreSQL", "Metabase"],
+        "testimonial": {
+          "quote": "We used to dread reporting week. Now it's a review step, not a fire drill.",
+          "role": "Head of Compliance, Financial Services Firm client"
+        },
+        "stats": [
+          { "value": "70%", "label": "Faster Reporting Cycle" },
+          { "value": "15+", "label": "Systems Integrated" },
+          { "value": "0", "label": "Compliance Findings Since Launch" }
+        ]
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Client Voices",
+    "heading": "What Our Clients Say",
+    "subheading": "Feedback from the teams we've partnered with — placeholder quotes shown below until replaced with real client testimonials.",
+    "leaveReview": {
+      "heading": "Share Your Experience",
+      "subheading": "Worked with Absoludata? We'd love to feature your story here.",
+      "name": "Your Name",
+      "company": "Company / Role",
+      "rating": "Your Rating",
+      "review": "Your Review",
+      "reviewPlaceholder": "Tell us about your experience working with us...",
+      "submit": "Submit Review",
+      "disclaimer": "Submitted reviews are checked by our team before being published."
+    },
+    "items": {
+      "sample1": {
+        "quote": "This is a placeholder testimonial. Replace it with a direct quote from a client describing the impact of your work together.",
+        "name": "Client Name",
+        "role": "Title, Company"
+      },
+      "sample2": {
+        "quote": "This is a placeholder testimonial. Replace it with a direct quote from a client describing the impact of your work together.",
+        "name": "Client Name",
+        "role": "Title, Company"
+      },
+      "sample3": {
+        "quote": "This is a placeholder testimonial. Replace it with a direct quote from a client describing the impact of your work together.",
+        "name": "Client Name",
+        "role": "Title, Company"
+      }
+    }
+  },
+  "blog": {
+    "eyebrow": "Insights & Updates",
+    "heading": "From Our Team",
+    "subheading": "Perspectives on data, cloud, and AI — plus behind-the-scenes looks at the solutions we build for our clients.",
+    "readMore": "Read Article",
+    "backToBlog": "Back to Blog",
+    "readFullCaseStudy": "Read the Full Case Study",
+    "cta": {
+      "heading": "Ready to Talk About Your Data?",
+      "subheading": "Let's explore how Absoludata can help your organization.",
+      "button": "Schedule a Consultation"
+    },
+    "items": {
+      "dataPlatformReadiness": {
+        "category": "Data Engineering",
+        "date": "2026-06-18",
+        "readTime": "6 min read",
+        "author": "Absoludata Team",
+        "title": "5 Signs Your Organization Is Ready for a Modern Data Platform",
+        "excerpt": "If spreadsheets are your source of truth and every report takes a week to produce, it might be time to rethink your data infrastructure. Here's how to know for sure.",
+        "intro": "Most organizations don't wake up one day and decide to invest in a modern data platform. It happens gradually — a report that used to take an hour now takes two days, a dashboard that used to be trusted is now double-checked in a spreadsheet, and every team seems to have its own version of the numbers. Here are five signs we see most often before a client decides it's time for change.",
+        "sections": [
+          {
+            "heading": "1. Your Reports Take Days, Not Minutes",
+            "text": "If producing a monthly or weekly report means someone manually pulling exports from five different systems and stitching them together in a spreadsheet, the bottleneck isn't your team — it's the absence of a pipeline that does that work automatically."
+          },
+          {
+            "heading": "2. Every Team Has Its Own Version of the Truth",
+            "text": "When finance, marketing, and operations each report a different number for the same metric, it's rarely a math error. It's usually a sign that each team is pulling from its own disconnected source instead of a single, governed source of truth."
+          },
+          {
+            "heading": "3. You're Making Decisions on Data That's Already Stale",
+            "text": "Batch exports that run overnight or once a week were fine when the business moved slower. If your team is reacting to what happened last week instead of what's happening today, your decision-making speed is capped by your data infrastructure."
+          },
+          {
+            "heading": "4. Scaling Means Hiring More Analysts, Not Building Better Systems",
+            "text": "If the answer to 'we need more reporting' is always 'we need to hire another analyst,' that's a sign the underlying pipeline isn't scaling — the manual work is just being spread across more people."
+          },
+          {
+            "heading": "5. Your Team Spends More Time Wrangling Data Than Analyzing It",
+            "text": "The most expensive people on your team should be spending their time finding insights, not cleaning CSVs. When data wrangling eats most of the week, the return on your analytics investment drops sharply."
+          }
+        ],
+        "closing": "If two or more of these sound familiar, it's usually not a people problem — it's an infrastructure one. A modern data platform doesn't mean ripping everything out overnight; it means building the pipelines, warehousing, and governance that let your team spend its time on insight instead of upkeep."
+      },
+      "telecomChurnBehindTheScenes": {
+        "category": "Success Stories",
+        "date": "2026-05-02",
+        "readTime": "7 min read",
+        "author": "Absoludata Team",
+        "title": "Inside the Numbers: How Predictive Analytics Cut Telecom Churn by 32%",
+        "excerpt": "A behind-the-scenes look at the churn-prediction platform we built for a regional telecom operator — and the three decisions that made it work.",
+        "intro": "We recently wrapped up a project with a regional telecom operator that cut voluntary churn by 32% in two quarters. The full case study covers the outcome — this post is about the decisions behind it, including a couple we almost got wrong.",
+        "sections": [
+          {
+            "heading": "The Problem with Reactive Retention",
+            "text": "When we started, the retention team only found out a subscriber was at risk when that subscriber called to cancel — at which point the decision was already made. The team wanted a warning system, but the real gap was that no one had ever connected billing, usage, and network event data into a single view of subscriber health."
+          },
+          {
+            "heading": "Why We Scored Risk Daily Instead of Real-Time",
+            "text": "It was tempting to build a real-time scoring system — it sounds more impressive. But churn risk doesn't spike in milliseconds; it builds up over days and weeks of behavior. A daily batch score gave the model more stable signal to work with, and it was far simpler to operate and debug than a streaming system would have been. Simplicity won."
+          },
+          {
+            "heading": "Turning a Model Into Something the Retention Team Would Actually Use",
+            "text": "A churn score is only useful if someone acts on it. Instead of handing the retention team a spreadsheet of risk scores, we wired the model's output directly into their existing workflow, triggering tiered, pre-approved retention offers automatically for the subscribers most worth saving."
+          },
+          {
+            "heading": "What We'd Do Differently Next Time",
+            "text": "We'd bring the retention team into the offer-design process earlier. The model told us who was at risk from week one, but it took an extra few weeks of collaboration to get the right offers matched to the right risk tiers — time we could have saved by looping them in from day one."
+          }
+        ],
+        "closing": "Curious about the full results? Read the complete case study for the metrics, architecture, and technologies behind this project."
+      }
+    }
+  },
+  "cta": {
+    "heading": "Let's Build Smarter Solutions Together",
+    "subheading": "Ready to transform your data into a competitive advantage? Schedule a free consultation and let's explore how Absoludata can accelerate your digital transformation.",
+    "scheduleCta": "Schedule a Free Consultation",
+    "viewServices": "View All Services"
+  },
+  "footer": {
+    "description": "Helping organizations simplify complex operations through cloud solutions, data engineering, analytics, and artificial intelligence.",
+    "tagline": "Cloud · Data Engineering · AI",
+    "copyright": "Absoludata. All rights reserved.",
+    "sections": {
+      "company": "Company",
+      "services": "Services"
+    },
+    "links": {
+      "about": "About",
+      "services": "Services",
+      "blog": "Blog",
+      "contact": "Contact",
+      "dataEngineering": "Data Engineering",
+      "analytics": "Analytics",
+      "applications": "Applications",
+      "ai": "Artificial Intelligence",
+      "webDevelopment": "Web Development"
+    }
+  },
+  "about": {
+    "eyebrow": "About Us",
+    "heading": "We Are Absoludata",
+    "intro": "A data and cloud solutions company focused on transforming complexity into clarity for modern enterprises across telecommunications, financial services, retail, marketing, and logistics.",
+    "mission": {
+      "heading": "Our Mission",
+      "text": "To help small and medium-sized enterprises harness the power of data, cloud computing, and artificial intelligence — delivering scalable solutions that improve operational efficiency, automation, and decision-making."
+    },
+    "vision": {
+      "heading": "Our Vision",
+      "text": "To be the trusted technology partner for data-driven organizations — building the intelligent infrastructure that powers tomorrow's businesses across every data-intensive industry."
+    },
+    "whatWeDo": {
+      "heading": "What We Do",
+      "subheading": "Absoludata delivers end-to-end data and AI solutions across the modern technology stack."
+    },
+    "cta": {
+      "heading": "Ready to Work Together?",
+      "subheading": "Let's start a conversation about how Absoludata can help your organization.",
+      "button": "Schedule a Consultation"
+    },
+    "capabilities": {
+      "dataEngineering": { "title": "Data Engineering", "desc": "We design and build scalable data pipelines, lakehouses, and streaming architectures that form the backbone of your data strategy." },
+      "cloudSolutions": { "title": "Cloud Solutions", "desc": "We architect and deploy cloud-native solutions on AWS and other major cloud platforms, optimized for performance and cost efficiency." },
+      "analytics": { "title": "Analytics & BI", "desc": "We transform raw data into meaningful business intelligence through dashboards, reports, and self-service analytics platforms." },
+      "ai": { "title": "Artificial Intelligence", "desc": "We implement AI and machine learning solutions that automate decisions, predict outcomes, and unlock new business value." },
+      "telecom": { "title": "Telecommunications", "desc": "We bring deep telecom domain expertise to network analytics, subscriber intelligence, and operational efficiency programs." },
+      "appDev": { "title": "Application Development", "desc": "We build cloud-native applications tailored to your workflows, from data products to customer-facing platforms." }
+    }
+  },
+  "services": {
+    "eyebrow": "What We Offer",
+    "heading": "Our Services",
+    "intro": "End-to-end data, cloud, and AI solutions designed for the modern enterprise.",
+    "cta": {
+      "heading": "Ready to Get Started?",
+      "subheading": "Tell us about your project and let's build something great together.",
+      "button": "Start a Conversation"
+    },
+    "discussService": "Discuss This Service",
+    "capabilitiesLabel": "Capabilities",
+    "technologiesLabel": "Technologies",
+    "items": {
+      "dataEngineering": {
+        "title": "Data Engineering",
+        "tagline": "Build the foundation for data-driven decisions.",
+        "description": "We design and build scalable data pipelines, lakehouses, and streaming architectures using modern cloud technologies. From ingestion to transformation to delivery, we ensure your data flows reliably and efficiently.",
+        "capabilities": ["Data Pipeline Design & Development", "Lakehouse & Data Warehouse Architecture", "Real-time Streaming (Kafka / Kinesis)", "ETL / ELT Automation", "Data Quality & Governance Frameworks", "Cloud Migration & Modernization"]
+      },
+      "analytics": {
+        "title": "Analytics",
+        "tagline": "Turn data into decisions.",
+        "description": "We build advanced analytics platforms that deliver actionable insights to business stakeholders. From self-service dashboards to complex analytical models, we make data accessible and valuable across your organization.",
+        "capabilities": ["Business Intelligence & Dashboards", "Self-Service Analytics Platforms", "KPI Frameworks & Metric Stores", "Customer & Product Analytics", "Predictive Analytics & Forecasting", "Data Visualization & Storytelling"]
+      },
+      "applications": {
+        "title": "Applications",
+        "tagline": "Build software that scales with your data.",
+        "description": "We develop cloud-native applications tailored to your unique business processes. From data products to internal tools to customer-facing platforms, we deliver software built for performance and long-term maintainability.",
+        "capabilities": ["Cloud-Native Application Development", "Data Product Engineering", "API Design & Development", "Microservices Architecture", "Internal Tool Development", "Platform Engineering"]
+      },
+      "ai": {
+        "title": "Artificial Intelligence",
+        "tagline": "Automate intelligence at scale.",
+        "description": "We implement AI and machine learning solutions that reduce operational complexity, automate decisions, and create new sources of business value. From model development to production deployment, we handle the full AI lifecycle.",
+        "capabilities": ["Machine Learning Model Development", "Generative AI & LLM Integration", "AI Workflow Automation", "MLOps & Model Monitoring", "AI Strategy & Roadmapping", "Intelligent Process Automation"]
+      },
+      "webDevelopment": {
+        "title": "Web Development",
+        "tagline": "Build your digital presence from the ground up.",
+        "description": "We design and develop custom websites tailored to your business needs — from sleek marketing sites to data-driven platforms. Every site we build is fast, responsive, SEO-optimized, and crafted to convert visitors into clients.",
+        "capabilities": ["Custom Website Design & Development", "Responsive & Mobile-First Design", "SEO Optimization & Performance", "CMS Integration (WordPress / Headless)", "E-Commerce Development", "Landing Pages & Marketing Sites"]
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Get In Touch",
+    "heading": "Let's Talk",
+    "intro": "Whether you're exploring a new project, looking for a technology partner, or want to learn how Absoludata can help — we'd love to hear from you.",
+    "options": {
+      "consultation": { "title": "Schedule a Free Consultation", "desc": "Book a 30-minute call with our team to discuss your data challenges and explore how we can help." },
+      "inquiry": { "title": "Project Inquiry", "desc": "Have a specific project in mind? Share the details and we'll come back with an initial assessment." },
+      "questions": { "title": "General Questions", "desc": "Want to learn more about our services, capabilities, or approach? We're happy to answer any questions." }
+    },
+    "form": {
+      "heading": "Send Us a Message",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Work Email",
+      "company": "Company",
+      "message": "How Can We Help?",
+      "messagePlaceholder": "Tell us about your project or question...",
+      "submit": "Send Message",
+      "disclaimer": "We'll get back to you within 1 business day."
+    }
+  }
+}

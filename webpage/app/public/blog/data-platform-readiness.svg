@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#1E293B"/>
+
+  <circle cx="980" cy="150" r="160" fill="#06C362" opacity="0.06"/>
+  <circle cx="120" cy="500" r="140" fill="#38BDF8" opacity="0.05"/>
+
+  <rect x="90" y="110" width="620" height="410" rx="16" fill="#0F172A" stroke="#334155" stroke-width="2"/>
+  <text x="130" y="168" fill="#F8FAFC" font-family="sans-serif" font-weight="bold" font-size="26">Is Your Data Platform Ready?</text>
+
+  <g font-family="sans-serif" font-size="20" fill="#CBD5E1">
+    <rect x="130" y="204" width="32" height="32" rx="8" fill="#06C362" opacity="0.15" stroke="#06C362" stroke-width="2"/>
+    <path d="M139 220l7 7 13-15" stroke="#06C362" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text x="180" y="227">Reports that used to take days</text>
+
+    <rect x="130" y="256" width="32" height="32" rx="8" fill="#06C362" opacity="0.15" stroke="#06C362" stroke-width="2"/>
+    <path d="M139 272l7 7 13-15" stroke="#06C362" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text x="180" y="279">Conflicting numbers across teams</text>
+
+    <rect x="130" y="308" width="32" height="32" rx="8" fill="#06C362" opacity="0.15" stroke="#06C362" stroke-width="2"/>
+    <path d="M139 324l7 7 13-15" stroke="#06C362" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text x="180" y="331">Decisions made on stale data</text>
+
+    <rect x="130" y="360" width="32" height="32" rx="8" fill="#06C362" opacity="0.15" stroke="#06C362" stroke-width="2"/>
+    <path d="M139 376l7 7 13-15" stroke="#06C362" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text x="180" y="383">Scaling means hiring, not building</text>
+
+    <rect x="130" y="412" width="32" height="32" rx="8" fill="#06C362" opacity="0.15" stroke="#06C362" stroke-width="2"/>
+    <path d="M139 428l7 7 13-15" stroke="#06C362" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text x="180" y="435">More wrangling than analyzing</text>
+  </g>
+
+  <rect x="750" y="110" width="360" height="410" rx="16" fill="#0F172A" stroke="#334155" stroke-width="2"/>
+  <text x="782" y="150" fill="#94A3B8" font-family="sans-serif" font-size="14">Pipeline Health</text>
+  <line x1="782" y1="380" x2="782" y2="180" stroke="#334155" stroke-width="2"/>
+  <line x1="782" y1="380" x2="1078" y2="380" stroke="#334155" stroke-width="2"/>
+  <polyline points="782,340 830,300 878,320 926,250 974,270 1022,210 1070,190" fill="none" stroke="#38BDF8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M782 340 830 300 878 320 926 250 974 270 1022 210 1070 190 1070 380 782 380 Z" fill="#38BDF8" opacity="0.08"/>
+  <g fill="#06C362">
+    <circle cx="782" cy="340" r="5"/>
+    <circle cx="830" cy="300" r="5"/>
+    <circle cx="878" cy="320" r="5"/>
+    <circle cx="926" cy="250" r="5"/>
+    <circle cx="974" cy="270" r="5"/>
+    <circle cx="1022" cy="210" r="5"/>
+    <circle cx="1070" cy="190" r="5"/>
+  </g>
+  <text x="782" y="440" fill="#94A3B8" font-family="sans-serif" font-size="14">From manual exports to automated pipelines</text>
+</svg>
