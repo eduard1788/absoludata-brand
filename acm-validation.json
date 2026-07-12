@@ -1,0 +1,26 @@
+{
+  "Changes": [
+    {
+      "Action": "UPSERT",
+      "ResourceRecordSet": {
+        "Name": "_2859eee17c63612edca1befa41f3d58c.absoludata.com.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          { "Value": "_c9606ac2269ba2a87bc320cd7b3cb966.jkddzztszm.acm-validations.aws." }
+        ]
+      }
+    },
+    {
+      "Action": "UPSERT",
+      "ResourceRecordSet": {
+        "Name": "_a15338f7d300c4d973d8b25925454252.www.absoludata.com.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          { "Value": "_aacf3f1bec7c0fdcabb6db1617199fbd.jkddzztszm.acm-validations.aws." }
+        ]
+      }
+    }
+  ]
+}
