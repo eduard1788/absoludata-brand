@@ -4,35 +4,36 @@ import { JSX } from 'react'
 import { useTranslations } from 'next-intl'
 
 const icons: Record<string, JSX.Element> = {
-  expertise: (
+  discover: (
     <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21 21l-4.35-4.35M18 11a7 7 0 11-14 0 7 7 0 0114 0z" />
     </svg>
   ),
-  delivery: (
+  design: (
+    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11 19l-4 1 1-4 9.414-9.414z" />
+    </svg>
+  ),
+  implement: (
     <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13 10V3L4 14h7v7l9-11h-7z" />
     </svg>
   ),
-  cloudNative: (
+  grow: (
     <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z" />
-    </svg>
-  ),
-  aiAutomation: (
-    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 17l6-6 4 4 8-8m0 0h-5m5 0v5" />
     </svg>
   ),
 }
 
-const valueKeys = ['expertise', 'delivery', 'cloudNative', 'aiAutomation'] as const
+const stepKeys = ['discover', 'design', 'implement', 'grow'] as const
 
 export default function WhyAbsoludata() {
   const t = useTranslations('whyAbsoludata')
 
-  const values = valueKeys.map(key => ({
+  const steps = stepKeys.map((key, i) => ({
     id: key,
+    number: i + 1,
     title: t(`items.${key}.title`),
     description: t(`items.${key}.description`),
     icon: icons[key],
@@ -47,19 +48,19 @@ export default function WhyAbsoludata() {
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">{t('subheading')}</p>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-          {values.map(value => (
-            <div
-              key={value.id}
-              className="flex gap-5 p-6 bg-brand-navy rounded-xl border border-white/5 hover:border-brand-blue/30 transition-all"
-            >
-              <div className="flex-shrink-0 w-12 h-12 rounded-lg bg-brand-blue/10 flex items-center justify-center text-brand-blue">
-                {value.icon}
+        <div className="relative grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="hidden lg:block absolute top-6 left-[12.5%] right-[12.5%] h-px bg-gradient-to-r from-transparent via-brand-blue/30 to-transparent" />
+
+          {steps.map(step => (
+            <div key={step.id} className="relative flex flex-col items-center text-center">
+              <div className="relative z-10 w-12 h-12 rounded-full bg-brand-navy border-2 border-brand-blue/40 flex items-center justify-center text-brand-blue font-heading font-bold mb-5">
+                {step.number}
               </div>
-              <div>
-                <h3 className="font-heading font-semibold text-lg text-white mb-2">{value.title}</h3>
-                <p className="text-gray-400 text-sm leading-relaxed">{value.description}</p>
+              <div className="w-10 h-10 rounded-lg bg-brand-blue/10 flex items-center justify-center text-brand-blue mb-4">
+                {step.icon}
               </div>
+              <h3 className="font-heading font-semibold text-lg text-white mb-2">{step.title}</h3>
+              <p className="text-gray-400 text-sm leading-relaxed">{step.description}</p>
             </div>
           ))}
         </div>

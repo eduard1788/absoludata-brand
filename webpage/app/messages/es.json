@@ -8,62 +8,65 @@
     "cta": "Obtener Consulta"
   },
   "hero": {
-    "badge": "Cloud · Ingeniería de Datos · IA",
-    "title": "Transforma tus Datos en",
-    "titleHighlight": "Ventaja Competitiva",
-    "subtitle": "Absoludata ayuda a las organizaciones a simplificar operaciones complejas a través de soluciones cloud, ingeniería de datos, analítica e inteligencia artificial — diseñado para velocidad y escala.",
+    "badge": "Tu Socio de Crecimiento y Automatización",
+    "title": "Vamos de la Mano Contigo para",
+    "titleHighlight": "Desatar Todo tu Potencial",
+    "subtitle": "Nos tomamos el tiempo de entender tu negocio y tus procesos, y luego trabajamos como tu socio para introducir IA y automatización que reduce costos, aumenta la productividad y hace crecer tus ingresos — en cada paso del camino.",
     "scheduleCta": "Agendar Consulta",
     "exploreServices": "Explorar Servicios",
-    "viewSuccessStories": "Ver Casos de Éxito"
+    "viewSuccessStories": "Ver Casos de Éxito",
+    "outcomeRevenue": "Crece tus Ingresos",
+    "outcomeProductivity": "Aumenta la Productividad",
+    "outcomeCost": "Reduce Costos"
   },
   "servicesSection": {
-    "eyebrow": "Lo Que Hacemos",
-    "heading": "Servicios Principales",
-    "subheading": "Soluciones de extremo a extremo en el stack moderno de datos e IA.",
+    "eyebrow": "Cómo te Ayudamos a Crecer",
+    "heading": "Formas en que Trabajamos Contigo",
+    "subheading": "Cada proyecto comienza entendiendo tu negocio — luego construimos la combinación correcta de automatización, datos e IA para impulsarlo.",
     "learnMore": "Saber más",
     "items": {
       "dataEngineering": {
-        "title": "Ingeniería de Datos",
-        "description": "Construye pipelines de datos escalables y confiables, e infraestructura de datos moderna que impulsan tus iniciativas de analítica e IA."
+        "title": "Automatiza el Trabajo Repetitivo",
+        "description": "Quitamos de los hombros de tu equipo los procesos manuales y repetitivos, y construimos sistemas confiables que los ejecutan por ti — liberando a tu gente para enfocarse en trabajo de mayor valor."
       },
       "analytics": {
-        "title": "Analítica",
-        "description": "Transforma datos brutos en inteligencia de negocio accionable con plataformas avanzadas de analítica y dashboards."
+        "title": "Convierte tus Datos en Decisiones",
+        "description": "Te ayudamos a ver con claridad lo que realmente está pasando en tu negocio, para que tomes decisiones más rápidas y seguras en lugar de basarte en suposiciones."
       },
       "applications": {
-        "title": "Aplicaciones",
-        "description": "Desarrolla aplicaciones cloud-native diseñadas para rendimiento, escalabilidad e integración fluida con tu ecosistema de datos."
+        "title": "Construimos Herramientas a la Medida de tu Forma de Trabajar",
+        "description": "Diseñamos software alrededor de tus flujos de trabajo reales, no al revés, para que tu equipo lo adopte de forma natural y logre más."
       },
       "ai": {
-        "title": "Inteligencia Artificial",
-        "description": "Implementa flujos de trabajo inteligentes y automatización impulsada por IA que reducen la complejidad operativa y aumentan la eficiencia."
+        "title": "Ponemos la IA a Trabajar para tu Equipo",
+        "description": "Introducimos IA práctica que reduce el esfuerzo manual y libera capacidad, ajustada a lo que tu negocio realmente necesita, no a la moda del momento."
       },
       "webDevelopment": {
-        "title": "Desarrollo Web",
-        "description": "Construimos sitios web personalizados adaptados a las necesidades de tu negocio — rápidos, responsivos y diseñados para convertir visitantes en clientes."
+        "title": "Muestra una Presencia Profesional en Línea",
+        "description": "Construimos una presencia digital que refleja la calidad de tu negocio y convierte visitantes en clientes."
       }
     }
   },
   "whyAbsoludata": {
-    "eyebrow": "Por Qué Elegirnos",
-    "heading": "Por Qué Absoludata",
-    "subheading": "Combinamos profundidad técnica con claridad empresarial para entregar soluciones que importan.",
+    "eyebrow": "Cómo Trabajamos",
+    "heading": "Cómo Trabajamos Contigo",
+    "subheading": "Esto no es un proyecto de una sola vez. Es una asociación que comienza entendiendo tu negocio y continúa mientras creces.",
     "items": {
-      "expertise": {
-        "title": "Experiencia Especializada",
-        "description": "Conocimiento profundo en ingeniería de datos, tecnologías cloud, analítica, IA y telecomunicaciones."
+      "discover": {
+        "title": "Aprendemos Sobre tu Negocio",
+        "description": "Antes de hablar de tecnología, escuchamos. Investigamos cómo funciona realmente tu negocio — tus metas, tus cuellos de botella, tu equipo — para que cada recomendación esté basada en la realidad, no en suposiciones."
       },
-      "delivery": {
-        "title": "Entrega Más Rápida",
-        "description": "Enfoque de implementación lean y ágil centrado en entrega rápida y resultados de negocio medibles."
+      "design": {
+        "title": "Diseñamos la Solución Correcta Contigo",
+        "description": "Conectamos la automatización y la IA con los procesos que generarán mayor impacto, y construimos el plan junto a tu equipo — sin cajas negras ni fórmulas genéricas."
       },
-      "cloudNative": {
-        "title": "Soluciones Cloud-Native",
-        "description": "Arquitecturas modernas diseñadas para escalabilidad, flexibilidad y eficiencia de costos a cualquier escala."
+      "implement": {
+        "title": "Implementamos, de la Mano",
+        "description": "Construimos e integramos la solución en la forma en que tu equipo ya trabaja, manteniéndonos cerca durante todo el proceso para que se adopte sin fricciones y realmente se use."
       },
-      "aiAutomation": {
-        "title": "Automatización Impulsada por IA",
-        "description": "Flujos de trabajo inteligentes y soluciones potenciadas por IA que reducen la complejidad operativa y aumentan la eficiencia."
+      "grow": {
+        "title": "Crecemos Contigo",
+        "description": "La asociación no termina en el lanzamiento. Seguimos involucrados, medimos el impacto y seguimos ajustando a medida que tu negocio evoluciona, porque tu crecimiento es la forma en que medimos nuestro éxito."
       }
     }
   },
@@ -92,29 +95,29 @@
     }
   },
   "industries": {
-    "eyebrow": "Enfoque Industrial",
-    "heading": "Industrias que Atendemos",
-    "subheading": "Experiencia profunda en los sectores más intensivos en datos.",
+    "eyebrow": "Industrias que Conocemos",
+    "heading": "Preparados para Entender tu Industria",
+    "subheading": "No aplicamos una fórmula genérica. Traemos experiencia práctica en las industrias donde las operaciones son más complejas.",
     "items": {
       "telecom": {
         "title": "Telecomunicaciones",
-        "description": "Analítica de red, inteligencia de suscriptores, predicción de churn y automatización operativa para operadores telecom."
+        "description": "Ayudamos a los operadores telecom a retener más clientes, operar redes más eficientes y automatizar el trabajo operativo que frena a sus equipos."
       },
       "finance": {
         "title": "Servicios Financieros",
-        "description": "Analítica de riesgo, detección de fraude, reportes regulatorios e inteligencia de clientes para bancos y fintechs."
+        "description": "Ayudamos a bancos y fintechs a detectar riesgos antes, reducir el trabajo manual de cumplimiento y entender a sus clientes lo suficiente como para servirles mejor."
       },
       "retail": {
         "title": "Retail",
-        "description": "Analítica de clientes, pronóstico de demanda, optimización de inventario e inteligencia de cadena de suministro."
+        "description": "Ayudamos a los retailers a tener el producto correcto en el lugar correcto, reducir desperdicio y entender lo que sus clientes realmente quieren."
       },
       "marketing": {
         "title": "Marketing",
-        "description": "Analítica de campañas, modelado de atribución, segmentación de audiencias y optimización del ROI."
+        "description": "Ayudamos a los equipos de marketing a demostrar qué está funcionando, invertir el presupuesto donde importa y dejar de adivinar el ROI."
       },
       "logistics": {
         "title": "Logística",
-        "description": "Optimización de rutas, inteligencia de entregas, analítica de flotas y soluciones de eficiencia de última milla."
+        "description": "Ayudamos a los equipos de logística a reducir kilómetros desperdiciados, mover carga con más eficiencia y cumplir entregas a tiempo sin sumar personal."
       }
     }
   },
@@ -327,8 +330,8 @@
     "viewServices": "Ver Todos los Servicios"
   },
   "footer": {
-    "description": "Ayudamos a las organizaciones a simplificar operaciones complejas a través de soluciones cloud, ingeniería de datos, analítica e inteligencia artificial.",
-    "tagline": "Cloud · Ingeniería de Datos · IA",
+    "description": "Tu socio de crecimiento y automatización — ayudamos a las empresas a reducir costos, aumentar la productividad y hacer crecer sus ingresos con IA y automatización diseñadas alrededor de cómo realmente trabajan.",
+    "tagline": "Tu Socio de Crecimiento y Automatización",
     "copyright": "Absoludata. Todos los derechos reservados.",
     "sections": {
       "company": "Empresa",
@@ -348,41 +351,41 @@
   },
   "about": {
     "eyebrow": "Nosotros",
-    "heading": "Somos Absoludata",
-    "intro": "Una empresa de soluciones de datos y cloud enfocada en transformar la complejidad en claridad para empresas modernas en telecomunicaciones, servicios financieros, retail, marketing y logística.",
+    "heading": "Somos tu Socio de Crecimiento",
+    "intro": "Absoludata no es un proveedor de software típico. Somos un socio cercano que conoce tu negocio a fondo y luego introduce IA y automatización que realmente marca la diferencia — más ingresos, menos costos y un equipo que logra más.",
     "mission": {
       "heading": "Nuestra Misión",
-      "text": "Ayudar a las pequeñas y medianas empresas a aprovechar el poder de los datos, la computación en la nube y la inteligencia artificial — entregando soluciones escalables que mejoran la eficiencia operativa, la automatización y la toma de decisiones."
+      "text": "Caminar de la mano con pequeñas y medianas empresas, entender sus operaciones reales, y ayudarlas a crecer a través de IA y automatización que se ajusta a cómo realmente trabajan, no una fórmula genérica."
     },
     "vision": {
       "heading": "Nuestra Visión",
-      "text": "Ser el socio tecnológico de confianza para las organizaciones orientadas a los datos — construyendo la infraestructura inteligente que impulsa los negocios del mañana en cada industria intensiva en datos."
+      "text": "Ser el socio al que las empresas acuden primero cuando están listas para crecer — reconocidos no por vender tecnología, sino por los resultados que ayudamos a crear juntos."
     },
     "whatWeDo": {
-      "heading": "Lo Que Hacemos",
-      "subheading": "Absoludata entrega soluciones de datos e IA de extremo a extremo en el stack tecnológico moderno."
+      "heading": "Cómo Ayudamos",
+      "subheading": "Traemos la combinación correcta de automatización, datos e IA a lo que sea que esté frenando tu negocio, siempre basados en tus operaciones reales."
     },
     "cta": {
       "heading": "¿Listo para Trabajar Juntos?",
-      "subheading": "Comencemos una conversación sobre cómo Absoludata puede ayudar a tu organización.",
+      "subheading": "Comencemos una conversación sobre cómo podemos ayudar a crecer tu negocio.",
       "button": "Agendar una Consulta"
     },
     "capabilities": {
-      "dataEngineering": { "title": "Ingeniería de Datos", "desc": "Diseñamos y construimos pipelines de datos escalables, lakehouses y arquitecturas de streaming que forman la columna vertebral de tu estrategia de datos." },
-      "cloudSolutions": { "title": "Soluciones Cloud", "desc": "Arquitectamos y desplegamos soluciones cloud-native en AWS y otras plataformas cloud principales, optimizadas para rendimiento y eficiencia de costos." },
-      "analytics": { "title": "Analítica e BI", "desc": "Transformamos datos brutos en inteligencia de negocio significativa a través de dashboards, reportes y plataformas de analítica self-service." },
-      "ai": { "title": "Inteligencia Artificial", "desc": "Implementamos soluciones de IA y machine learning que automatizan decisiones, predicen resultados y desbloquean nuevo valor empresarial." },
-      "telecom": { "title": "Telecomunicaciones", "desc": "Aportamos profunda experiencia en el dominio telecom a la analítica de red, inteligencia de suscriptores y programas de eficiencia operativa." },
-      "appDev": { "title": "Desarrollo de Aplicaciones", "desc": "Construimos aplicaciones cloud-native adaptadas a tus flujos de trabajo, desde productos de datos hasta plataformas orientadas al cliente." }
+      "dataEngineering": { "title": "Automatización y Sistemas de Procesos", "desc": "Quitamos de tus manos los procesos manuales y repetitivos, y construimos sistemas confiables que los ejecutan por ti, liberando a tu equipo para enfocarse en lo que más importa." },
+      "cloudSolutions": { "title": "Infraestructura Confiable y Escalable", "desc": "Construimos sobre bases cloud modernas para que lo que entregamos siga funcionando a medida que tu negocio crece, sin sorpresas ni caídas." },
+      "analytics": { "title": "Visibilidad Clara de tu Negocio", "desc": "Convertimos datos dispersos en dashboards y reportes que tu equipo realmente puede usar para tomar decisiones más rápidas y mejores." },
+      "ai": { "title": "IA Práctica, No Moda Pasajera", "desc": "Introducimos IA donde realmente genera valor para tu negocio, ajustada a tus necesidades reales, no a la última tendencia." },
+      "telecom": { "title": "Experiencia Real en la Industria", "desc": "Hemos trabajado a fondo dentro de operaciones de telecomunicaciones, finanzas, retail y logística, así que entendemos tu mundo, no solo tus datos." },
+      "appDev": { "title": "Herramientas a la Medida de tu Equipo", "desc": "Cuando el software genérico no se ajusta a tu forma de trabajar, construimos herramientas moldeadas alrededor de tus flujos de trabajo reales." }
     }
   },
   "services": {
-    "eyebrow": "Lo Que Ofrecemos",
-    "heading": "Nuestros Servicios",
-    "intro": "Soluciones de datos, cloud e IA de extremo a extremo diseñadas para la empresa moderna.",
+    "eyebrow": "Cómo Podemos Ayudar",
+    "heading": "Lo Que Podemos Construir Juntos",
+    "intro": "Cada negocio es diferente. Así es como solemos ayudar — siempre adaptado a tus procesos reales, no a una plantilla fija.",
     "cta": {
       "heading": "¿Listo para Comenzar?",
-      "subheading": "Cuéntanos sobre tu proyecto y construyamos algo grandioso juntos.",
+      "subheading": "Cuéntanos sobre tu negocio y descubramos juntos dónde la automatización y la IA pueden ayudar más.",
       "button": "Iniciar una Conversación"
     },
     "discussService": "Hablar sobre Este Servicio",
@@ -391,32 +394,32 @@
     "items": {
       "dataEngineering": {
         "title": "Ingeniería de Datos",
-        "tagline": "Construye la base para decisiones basadas en datos.",
-        "description": "Diseñamos y construimos pipelines de datos escalables, lakehouses y arquitecturas de streaming usando tecnologías cloud modernas. Desde la ingestión hasta la transformación y entrega, garantizamos que tus datos fluyan de manera confiable y eficiente.",
+        "tagline": "Deja de perder horas en trabajo manual de datos.",
+        "description": "Diseñamos y construimos pipelines de datos e infraestructura confiables para que tu equipo pase menos tiempo lidiando con datos y más tiempo actuando sobre ellos — la base práctica sobre la que se construyen buenas decisiones y la automatización.",
         "capabilities": ["Diseño y Desarrollo de Pipelines de Datos", "Arquitectura Lakehouse y Data Warehouse", "Streaming en Tiempo Real (Kafka / Kinesis)", "Automatización ETL / ELT", "Frameworks de Calidad y Gobernanza de Datos", "Migración y Modernización Cloud"]
       },
       "analytics": {
         "title": "Analítica",
-        "tagline": "Convierte datos en decisiones.",
-        "description": "Construimos plataformas de analítica avanzada que entregan insights accionables a los stakeholders del negocio. Desde dashboards self-service hasta modelos analíticos complejos, hacemos que los datos sean accesibles y valiosos en toda tu organización.",
+        "tagline": "Ve lo que realmente está pasando en tu negocio.",
+        "description": "Construimos plataformas de analítica que convierten números dispersos en información clara y accionable, para que las decisiones se tomen más rápido y con más confianza, no con más suposiciones.",
         "capabilities": ["Business Intelligence y Dashboards", "Plataformas de Analítica Self-Service", "Frameworks de KPIs y Metric Stores", "Analítica de Clientes y Productos", "Analítica Predictiva y Pronósticos", "Visualización de Datos y Storytelling"]
       },
       "applications": {
         "title": "Aplicaciones",
-        "tagline": "Construye software que escala con tus datos.",
-        "description": "Desarrollamos aplicaciones cloud-native adaptadas a tus procesos de negocio únicos. Desde productos de datos hasta herramientas internas y plataformas orientadas al cliente, entregamos software construido para rendimiento y mantenibilidad a largo plazo.",
+        "tagline": "Software construido alrededor de cómo tu equipo realmente trabaja.",
+        "description": "Desarrollamos aplicaciones a la medida de tus flujos de trabajo reales, no de una plantilla genérica, para que tu equipo las adopte de forma natural y logre más.",
         "capabilities": ["Desarrollo de Aplicaciones Cloud-Native", "Ingeniería de Productos de Datos", "Diseño y Desarrollo de APIs", "Arquitectura de Microservicios", "Desarrollo de Herramientas Internas", "Ingeniería de Plataformas"]
       },
       "ai": {
         "title": "Inteligencia Artificial",
-        "tagline": "Automatiza la inteligencia a escala.",
-        "description": "Implementamos soluciones de IA y machine learning que reducen la complejidad operativa, automatizan decisiones y crean nuevas fuentes de valor empresarial. Desde el desarrollo del modelo hasta el despliegue en producción, gestionamos el ciclo de vida completo de IA.",
+        "tagline": "IA que se gana su lugar.",
+        "description": "Implementamos IA donde realmente reduce esfuerzo o genera valor para tu negocio, acompañándote desde la primera idea hasta una solución que tu equipo usa de verdad, día a día.",
         "capabilities": ["Desarrollo de Modelos de Machine Learning", "IA Generativa e Integración de LLMs", "Automatización de Flujos de Trabajo con IA", "MLOps y Monitoreo de Modelos", "Estrategia y Hoja de Ruta de IA", "Automatización Inteligente de Procesos"]
       },
       "webDevelopment": {
         "title": "Desarrollo Web",
-        "tagline": "Construye tu presencia digital desde cero.",
-        "description": "Diseñamos y desarrollamos sitios web personalizados adaptados a las necesidades de tu negocio — desde elegantes sitios de marketing hasta plataformas orientadas a datos. Cada sitio que construimos es rápido, responsivo, optimizado para SEO y diseñado para convertir visitantes en clientes.",
+        "tagline": "Una presencia digital que trabaja tan duro como tú.",
+        "description": "Construimos sitios web rápidos y profesionales que reflejan la calidad de tu negocio y convierten visitantes en clientes — sin plantillas genéricas, sin oportunidades desperdiciadas.",
         "capabilities": ["Diseño y Desarrollo Web Personalizado", "Diseño Responsivo y Mobile-First", "Optimización SEO y Rendimiento", "Integración de CMS (WordPress / Headless)", "Desarrollo E-Commerce", "Landing Pages y Sitios de Marketing"]
       }
     }

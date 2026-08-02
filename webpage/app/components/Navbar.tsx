@@ -25,13 +25,13 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-20">
 
           <Link href="/" className="flex items-center gap-3">
-            <div style={{ width: 72, height: 72, overflow: 'hidden', flexShrink: 0 }}>
+            <div style={{ width: 72, height: 72, flexShrink: 0 }}>
               <Image
                 src="/logo.png"
                 alt="Absoludata"
-                width={116}
-                height={116}
-                style={{ marginLeft: -22, mixBlendMode: 'screen', maxWidth: 'none' }}
+                width={72}
+                height={72}
+                style={{ mixBlendMode: 'screen' }}
                 priority
               />
             </div>

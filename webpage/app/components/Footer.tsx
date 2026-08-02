@@ -28,13 +28,13 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
           <div className="col-span-1 md:col-span-2">
             <Link href="/" className="inline-flex items-center gap-4">
-              <div style={{ width: 80, height: 80, overflow: 'hidden', flexShrink: 0 }}>
+              <div style={{ width: 80, height: 80, flexShrink: 0 }}>
                 <Image
                   src="/logo.png"
                   alt="Absoludata"
-                  width={130}
-                  height={130}
-                  style={{ marginLeft: -25, mixBlendMode: 'screen', maxWidth: 'none' }}
+                  width={80}
+                  height={80}
+                  style={{ mixBlendMode: 'screen' }}
                 />
               </div>
               <span className="font-heading font-bold text-4xl tracking-wide text-brand-green">ABSOLUDATA</span>

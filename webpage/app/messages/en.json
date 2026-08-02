@@ -8,62 +8,65 @@
     "cta": "Get a Consultation"
   },
   "hero": {
-    "badge": "Cloud · Data Engineering · AI",
-    "title": "Transform Your Data Into",
-    "titleHighlight": "Competitive Advantage",
-    "subtitle": "Absoludata helps organizations simplify complex operations through cloud solutions, data engineering, analytics, and artificial intelligence — built for speed and scale.",
+    "badge": "Your Growth & Automation Partner",
+    "title": "We Go Hand in Hand With You to",
+    "titleHighlight": "Unlock Your Full Potential",
+    "subtitle": "We take the time to understand your business and your processes, then partner with you to introduce AI and automation that reduces costs, increases productivity, and grows revenue — every step of the way.",
     "scheduleCta": "Schedule Consultation",
     "exploreServices": "Explore Services",
-    "viewSuccessStories": "See Success Stories"
+    "viewSuccessStories": "See Success Stories",
+    "outcomeRevenue": "Grow Revenue",
+    "outcomeProductivity": "Increase Productivity",
+    "outcomeCost": "Reduce Costs"
   },
   "servicesSection": {
-    "eyebrow": "What We Do",
-    "heading": "Core Services",
-    "subheading": "End-to-end solutions across the modern data and AI stack.",
+    "eyebrow": "How We Help You Grow",
+    "heading": "Ways We Partner With You",
+    "subheading": "Every engagement starts with understanding your business — then we build the right mix of automation, data, and AI to move it forward.",
     "learnMore": "Learn more",
     "items": {
       "dataEngineering": {
-        "title": "Data Engineering",
-        "description": "Build scalable, reliable data pipelines and modern data infrastructure that power your analytics and AI initiatives."
+        "title": "Automate the Busywork",
+        "description": "We take repetitive, manual processes off your team's plate and build reliable systems that run them for you — freeing your people to focus on higher-value work."
       },
       "analytics": {
-        "title": "Analytics",
-        "description": "Transform raw data into actionable business intelligence with advanced analytics platforms and dashboards."
+        "title": "Turn Data Into Decisions",
+        "description": "We help you see clearly what's actually happening in your business, so you can make faster, more confident decisions instead of relying on guesswork."
       },
       "applications": {
-        "title": "Applications",
-        "description": "Develop cloud-native applications designed for performance, scalability, and seamless integration with your data ecosystem."
+        "title": "Build Tools That Fit How You Work",
+        "description": "We design software around your real workflows, not the other way around, so your team adopts it naturally and gets more done."
       },
       "ai": {
-        "title": "Artificial Intelligence",
-        "description": "Implement intelligent workflows and AI-powered automation that reduce operational complexity and drive efficiency."
+        "title": "Put AI to Work for Your Team",
+        "description": "We introduce practical AI that reduces manual effort and unlocks capacity, matched to what your business actually needs, not hype."
       },
       "webDevelopment": {
-        "title": "Web Development",
-        "description": "We build custom websites tailored to your business needs — fast, responsive, and designed to convert visitors into clients."
+        "title": "Show Up Professionally Online",
+        "description": "We build a digital presence that reflects the quality of your business and turns visitors into customers."
       }
     }
   },
   "whyAbsoludata": {
-    "eyebrow": "Why Choose Us",
-    "heading": "Why Absoludata",
-    "subheading": "We combine technical depth with business clarity to deliver solutions that matter.",
+    "eyebrow": "How We Work",
+    "heading": "How We Partner With You",
+    "subheading": "This isn't a one-off project. It's a partnership that starts with understanding your business and keeps going as you grow.",
     "items": {
-      "expertise": {
-        "title": "Specialized Expertise",
-        "description": "Deep knowledge across data engineering, cloud technologies, analytics, AI, and telecommunications."
+      "discover": {
+        "title": "We Learn Your Business",
+        "description": "Before we talk technology, we listen. We dig into how your business actually runs — your goals, your bottlenecks, your team — so every recommendation is grounded in reality, not guesswork."
       },
-      "delivery": {
-        "title": "Faster Delivery",
-        "description": "Lean and agile implementation approach focused on rapid delivery and measurable business outcomes."
+      "design": {
+        "title": "We Design the Right Solution With You",
+        "description": "We map automation and AI to the processes that will move the needle most, and build the plan together with your team — no black boxes, no one-size-fits-all playbook."
       },
-      "cloudNative": {
-        "title": "Cloud-Native Solutions",
-        "description": "Modern architectures designed for scalability, flexibility, and cost efficiency at any scale."
+      "implement": {
+        "title": "We Implement, Hand in Hand",
+        "description": "We build and integrate the solution into how your team already works, staying close throughout so it lands smoothly and actually gets used."
       },
-      "aiAutomation": {
-        "title": "AI-Driven Automation",
-        "description": "Intelligent workflows and AI-powered solutions that reduce operational complexity and drive efficiency."
+      "grow": {
+        "title": "We Grow With You",
+        "description": "The partnership doesn't end at launch. We stay engaged, measure impact, and keep refining as your business evolves, because your growth is how we measure our success."
       }
     }
   },
@@ -92,29 +95,29 @@
     }
   },
   "industries": {
-    "eyebrow": "Industry Focus",
-    "heading": "Industries We Serve",
-    "subheading": "Deep domain expertise across the most data-intensive sectors.",
+    "eyebrow": "Industries We Know",
+    "heading": "Built to Understand Your Industry",
+    "subheading": "We don't apply a generic playbook. We bring hands-on experience in the industries where operations are most complex.",
     "items": {
       "telecom": {
         "title": "Telecommunications",
-        "description": "Network analytics, subscriber intelligence, churn prediction, and operational automation for telecom operators."
+        "description": "We help telecom operators keep more customers, run leaner networks, and automate the operational work that slows teams down."
       },
       "finance": {
         "title": "Financial Services",
-        "description": "Risk analytics, fraud detection, regulatory reporting, and customer intelligence for banks and fintechs."
+        "description": "We help banks and fintechs catch risk earlier, cut manual compliance work, and understand customers well enough to serve them better."
       },
       "retail": {
         "title": "Retail",
-        "description": "Customer analytics, demand forecasting, inventory optimization, and supply chain intelligence."
+        "description": "We help retailers stock the right products in the right places, cut waste, and understand what customers actually want."
       },
       "marketing": {
         "title": "Marketing",
-        "description": "Campaign analytics, attribution modeling, audience segmentation, and ROI optimization."
+        "description": "We help marketing teams prove what's working, spend budget where it counts, and stop guessing at ROI."
       },
       "logistics": {
         "title": "Logistics",
-        "description": "Route optimization, delivery intelligence, fleet analytics, and last-mile efficiency solutions."
+        "description": "We help logistics teams cut wasted miles, move freight more efficiently, and keep deliveries on time without adding headcount."
       }
     }
   },
@@ -327,8 +330,8 @@
     "viewServices": "View All Services"
   },
   "footer": {
-    "description": "Helping organizations simplify complex operations through cloud solutions, data engineering, analytics, and artificial intelligence.",
-    "tagline": "Cloud · Data Engineering · AI",
+    "description": "Your partner in growth and automation — we help businesses cut costs, boost productivity, and grow revenue with AI and automation built around how they actually work.",
+    "tagline": "Your Growth & Automation Partner",
     "copyright": "Absoludata. All rights reserved.",
     "sections": {
       "company": "Company",
@@ -348,41 +351,41 @@
   },
   "about": {
     "eyebrow": "About Us",
-    "heading": "We Are Absoludata",
-    "intro": "A data and cloud solutions company focused on transforming complexity into clarity for modern enterprises across telecommunications, financial services, retail, marketing, and logistics.",
+    "heading": "We're Your Growth Partner",
+    "intro": "Absoludata isn't a typical software vendor. We're a hands-on partner that gets to know your business, then introduces AI and automation that actually moves the needle — more revenue, lower costs, and a team that gets more done.",
     "mission": {
       "heading": "Our Mission",
-      "text": "To help small and medium-sized enterprises harness the power of data, cloud computing, and artificial intelligence — delivering scalable solutions that improve operational efficiency, automation, and decision-making."
+      "text": "To walk hand in hand with small and medium-sized businesses, understand their real operations, and help them grow through AI and automation that fits how they actually work, not a generic playbook."
     },
     "vision": {
       "heading": "Our Vision",
-      "text": "To be the trusted technology partner for data-driven organizations — building the intelligent infrastructure that powers tomorrow's businesses across every data-intensive industry."
+      "text": "To be the partner businesses turn to first when they're ready to grow — known not for selling technology, but for the results we help create together."
     },
     "whatWeDo": {
-      "heading": "What We Do",
-      "subheading": "Absoludata delivers end-to-end data and AI solutions across the modern technology stack."
+      "heading": "How We Help",
+      "subheading": "We bring the right mix of automation, data, and AI to whatever is holding your business back, always grounded in your real operations."
     },
     "cta": {
       "heading": "Ready to Work Together?",
-      "subheading": "Let's start a conversation about how Absoludata can help your organization.",
+      "subheading": "Let's start a conversation about how we can help your business grow.",
       "button": "Schedule a Consultation"
     },
     "capabilities": {
-      "dataEngineering": { "title": "Data Engineering", "desc": "We design and build scalable data pipelines, lakehouses, and streaming architectures that form the backbone of your data strategy." },
-      "cloudSolutions": { "title": "Cloud Solutions", "desc": "We architect and deploy cloud-native solutions on AWS and other major cloud platforms, optimized for performance and cost efficiency." },
-      "analytics": { "title": "Analytics & BI", "desc": "We transform raw data into meaningful business intelligence through dashboards, reports, and self-service analytics platforms." },
-      "ai": { "title": "Artificial Intelligence", "desc": "We implement AI and machine learning solutions that automate decisions, predict outcomes, and unlock new business value." },
-      "telecom": { "title": "Telecommunications", "desc": "We bring deep telecom domain expertise to network analytics, subscriber intelligence, and operational efficiency programs." },
-      "appDev": { "title": "Application Development", "desc": "We build cloud-native applications tailored to your workflows, from data products to customer-facing platforms." }
+      "dataEngineering": { "title": "Automation & Process Systems", "desc": "We take manual, repetitive processes off your plate and build reliable systems that run them for you, freeing your team to focus on what matters most." },
+      "cloudSolutions": { "title": "Reliable, Scalable Infrastructure", "desc": "We build on modern cloud foundations so what we deliver keeps working as your business grows, without surprises or downtime." },
+      "analytics": { "title": "Clear Visibility Into Your Business", "desc": "We turn scattered data into dashboards and reports your team can actually use to make faster, better decisions." },
+      "ai": { "title": "Practical AI, Not Hype", "desc": "We introduce AI where it actually creates value for your business, matched to your real needs, not the latest trend." },
+      "telecom": { "title": "Real Industry Experience", "desc": "We've worked deep inside telecom, finance, retail, and logistics operations, so we understand your world, not just your data." },
+      "appDev": { "title": "Custom Tools That Fit Your Team", "desc": "When off-the-shelf software doesn't fit how you work, we build tools shaped around your actual workflows." }
     }
   },
   "services": {
-    "eyebrow": "What We Offer",
-    "heading": "Our Services",
-    "intro": "End-to-end data, cloud, and AI solutions designed for the modern enterprise.",
+    "eyebrow": "How We Can Help",
+    "heading": "What We Can Build Together",
+    "intro": "Every business is different. Here's how we typically help — always adapted to your real processes, not a fixed template.",
     "cta": {
       "heading": "Ready to Get Started?",
-      "subheading": "Tell us about your project and let's build something great together.",
+      "subheading": "Tell us about your business and let's figure out, together, where automation and AI can help most.",
       "button": "Start a Conversation"
     },
     "discussService": "Discuss This Service",
@@ -391,32 +394,32 @@
     "items": {
       "dataEngineering": {
         "title": "Data Engineering",
-        "tagline": "Build the foundation for data-driven decisions.",
-        "description": "We design and build scalable data pipelines, lakehouses, and streaming architectures using modern cloud technologies. From ingestion to transformation to delivery, we ensure your data flows reliably and efficiently.",
+        "tagline": "Stop losing hours to manual data work.",
+        "description": "We design and build reliable data pipelines and infrastructure so your team spends less time wrangling data and more time acting on it — the practical foundation good decisions and automation are built on.",
         "capabilities": ["Data Pipeline Design & Development", "Lakehouse & Data Warehouse Architecture", "Real-time Streaming (Kafka / Kinesis)", "ETL / ELT Automation", "Data Quality & Governance Frameworks", "Cloud Migration & Modernization"]
       },
       "analytics": {
         "title": "Analytics",
-        "tagline": "Turn data into decisions.",
-        "description": "We build advanced analytics platforms that deliver actionable insights to business stakeholders. From self-service dashboards to complex analytical models, we make data accessible and valuable across your organization.",
+        "tagline": "See what's really happening in your business.",
+        "description": "We build analytics platforms that turn scattered numbers into clear, actionable insight, so decisions get made faster and with more confidence, not more guesswork.",
         "capabilities": ["Business Intelligence & Dashboards", "Self-Service Analytics Platforms", "KPI Frameworks & Metric Stores", "Customer & Product Analytics", "Predictive Analytics & Forecasting", "Data Visualization & Storytelling"]
       },
       "applications": {
         "title": "Applications",
-        "tagline": "Build software that scales with your data.",
-        "description": "We develop cloud-native applications tailored to your unique business processes. From data products to internal tools to customer-facing platforms, we deliver software built for performance and long-term maintainability.",
+        "tagline": "Software built around how your team actually works.",
+        "description": "We develop custom applications shaped by your real workflows, not a generic template, so your team adopts them naturally and gets more done.",
         "capabilities": ["Cloud-Native Application Development", "Data Product Engineering", "API Design & Development", "Microservices Architecture", "Internal Tool Development", "Platform Engineering"]
       },
       "ai": {
         "title": "Artificial Intelligence",
-        "tagline": "Automate intelligence at scale.",
-        "description": "We implement AI and machine learning solutions that reduce operational complexity, automate decisions, and create new sources of business value. From model development to production deployment, we handle the full AI lifecycle.",
+        "tagline": "AI that earns its keep.",
+        "description": "We implement AI where it genuinely reduces effort or creates value for your business, handling everything from the first idea to a solution your team actually uses day to day.",
         "capabilities": ["Machine Learning Model Development", "Generative AI & LLM Integration", "AI Workflow Automation", "MLOps & Model Monitoring", "AI Strategy & Roadmapping", "Intelligent Process Automation"]
       },
       "webDevelopment": {
         "title": "Web Development",
-        "tagline": "Build your digital presence from the ground up.",
-        "description": "We design and develop custom websites tailored to your business needs — from sleek marketing sites to data-driven platforms. Every site we build is fast, responsive, SEO-optimized, and crafted to convert visitors into clients.",
+        "tagline": "A digital presence that works as hard as you do.",
+        "description": "We build fast, professional websites that reflect the quality of your business and turn visitors into customers — no bloated templates, no wasted opportunity.",
         "capabilities": ["Custom Website Design & Development", "Responsive & Mobile-First Design", "SEO Optimization & Performance", "CMS Integration (WordPress / Headless)", "E-Commerce Development", "Landing Pages & Marketing Sites"]
       }
     }
