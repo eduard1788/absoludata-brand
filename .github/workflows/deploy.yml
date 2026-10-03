@@ -2,7 +2,7 @@ name: Deploy to AWS
 
 on:
   push:
-    branches: [main]
+    branches: [jh/update-landing-page-v2]
     paths:
       - 'webpage/app/**'
       - '.github/workflows/deploy.yml'
