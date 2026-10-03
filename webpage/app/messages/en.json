@@ -404,7 +404,7 @@
   "about": {
     "eyebrow": "About Us",
     "heading": "Data Engineering for Growing Businesses",
-    "intro": "Absoludata is a consulting and delivery partner for small and mid-sized businesses that need reliable AWS data platforms, practical integrations, and clear BI and analytics.",
+    "intro": "Absoludata provides consulting and implementation to help small and mid-sized businesses solve data challenges, from integrating systems and building reliable AWS platforms to creating clear reports that support better decisions.",
     "mission": {
       "heading": "Our Mission",
       "text": "Help small and mid-sized businesses make their data platforms more reliable and their operational information more accessible and useful."
@@ -429,11 +429,11 @@
       },
       "cloudSolutions": {
         "title": "Data Platform Modernization",
-        "desc": "Review and improve existing AWS data environments with attention to reliability, maintainability, and data quality."
+        "desc": "Review and improve existing AWS data environments to strengthen reliability and data quality, simplify maintenance, and improve cloud cost efficiency."
       },
       "analytics": {
         "title": "BI & Analytics",
-        "desc": "Develop reporting and analytics foundations that help teams answer business questions with consistent data."
+        "desc": "We design clear reports and analytics solutions that help teams answer key business questions with reliable data."
       },
       "ai": {
         "title": "System Integrations",
@@ -461,6 +461,37 @@
     "discussService": "Discuss This Service in a Session",
     "capabilitiesLabel": "Capabilities",
     "technologiesLabel": "Technologies",
+    "principles": {
+      "eyebrow": "How We Design",
+      "heading": "Six Priorities Behind Every Solution",
+      "description": "We consider these priorities throughout each engagement, balancing them to fit your systems, goals, and operating needs.",
+      "items": [
+        {
+          "title": "Operational Excellence",
+          "description": "Automate repeatable tasks, improve visibility, and make day-to-day operations easier to manage."
+        },
+        {
+          "title": "Security",
+          "description": "Protect data and systems with access controls and security practices suited to your environment."
+        },
+        {
+          "title": "Reliability",
+          "description": "Design for dependable operations, clear recovery paths, and fewer disruptions."
+        },
+        {
+          "title": "Performance Efficiency",
+          "description": "Match resources and architecture to workload needs as they change."
+        },
+        {
+          "title": "Cost Optimization",
+          "description": "Understand cloud spending and prioritize practical opportunities to reduce waste."
+        },
+        {
+          "title": "Sustainability",
+          "description": "Use resources thoughtfully and avoid unnecessary processing and infrastructure."
+        }
+      ]
+    },
     "items": {
       "dataEngineering": {
         "title": "Data Engineering",
@@ -491,14 +522,15 @@
       "applications": {
         "title": "Data Platform Modernization",
         "tagline": "Improve the data systems you already depend on.",
-        "description": "Review and modernize existing AWS data pipelines and platforms to address specific reliability, data quality, and maintainability needs.",
+        "description": "Review and modernize existing AWS data pipelines and platforms to improve reliability, data quality, and maintainability while identifying opportunities to reduce cloud costs.",
         "capabilities": [
           "AWS Platform Reviews",
           "Pipeline Reliability Improvements",
           "Data Quality Improvements",
           "Migration Planning & Support",
           "Monitoring and Troubleshooting",
-          "Maintainability Improvements"
+          "Maintainability Improvements",
+          "Cloud Cost Review & Optimization"
         ]
       },
       "ai": {

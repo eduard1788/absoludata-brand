@@ -117,6 +117,30 @@ export default function ServicesPage() {
         </section>
       ))}
 
+      <section className="py-24 bg-brand-navy">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="max-w-3xl mb-12">
+            <p className="text-brand-green font-medium text-sm uppercase tracking-widest mb-3">
+              {t('principles.eyebrow')}
+            </p>
+            <h2 className="font-heading font-bold text-3xl sm:text-4xl text-white mb-4">
+              {t('principles.heading')}
+            </h2>
+            <p className="text-gray-400 leading-relaxed">{t('principles.description')}</p>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {(t.raw('principles.items') as { title: string; description: string }[]).map((principle, index) => (
+              <article key={principle.title} className="p-5 bg-brand-navy-light border border-white/5 rounded-lg">
+                <p className="text-brand-green text-sm font-semibold mb-3">0{index + 1}</p>
+                <h3 className="font-heading font-semibold text-white mb-2">{principle.title}</h3>
+                <p className="text-gray-400 text-sm leading-relaxed">{principle.description}</p>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+
       <section className="py-24 bg-brand-navy-light">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 text-center">
           <h2 className="font-heading font-bold text-4xl text-white mb-4">{t('cta.heading')}</h2>
