@@ -28,13 +28,13 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
           <div className="col-span-1 md:col-span-2">
             <Link href="/" className="inline-flex items-center gap-4">
-              <div style={{ width: 80, height: 80, flexShrink: 0 }}>
+              <div className="h-20 w-20 shrink-0">
                 <Image
-                  src="/logo.png"
+                  src="/logo.webp"
                   alt="Absoludata"
                   width={80}
                   height={80}
-                  style={{ mixBlendMode: 'screen' }}
+                  className="h-20 w-20"
                 />
               </div>
               <span className="font-heading font-bold text-4xl tracking-wide text-brand-green">ABSOLUDATA</span>
@@ -45,7 +45,7 @@ export default function Footer() {
           </div>
 
           <div>
-            <h4 className="text-white font-semibold text-sm mb-4">{t('sections.company')}</h4>
+            <h2 className="text-white font-semibold text-sm mb-4">{t('sections.company')}</h2>
             <ul className="flex flex-col gap-2">
               {companyLinks.map(link => (
                 <li key={link.href}>
@@ -55,10 +55,18 @@ export default function Footer() {
                 </li>
               ))}
             </ul>
+            <a
+              href="https://www.linkedin.com/company/absoludata/"
+              target="_blank"
+              rel="noreferrer"
+              className="inline-block mt-4 text-gray-400 text-sm hover:text-white transition-colors"
+            >
+              {t('linkedin')}
+            </a>
           </div>
 
           <div>
-            <h4 className="text-white font-semibold text-sm mb-4">{t('sections.services')}</h4>
+            <h2 className="text-white font-semibold text-sm mb-4">{t('sections.services')}</h2>
             <ul className="flex flex-col gap-2">
               {serviceLinks.map(link => (
                 <li key={link.href}>
@@ -72,10 +80,10 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 pt-6 border-t border-white/5 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p className="text-gray-500 text-sm">
+          <p className="text-gray-400 text-sm">
             &copy; {new Date().getFullYear()} {t('copyright')}
           </p>
-          <p className="text-gray-500 text-sm">{t('tagline')}</p>
+          <p className="text-gray-400 text-sm">{t('tagline')}</p>
         </div>
       </div>
     </footer>

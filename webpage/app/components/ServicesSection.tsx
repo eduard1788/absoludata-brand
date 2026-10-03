@@ -37,8 +37,8 @@ const icons: Record<string, JSX.Element> = {
   ),
 }
 
-const serviceKeys = ['dataEngineering', 'analytics', 'applications', 'ai', 'webDevelopment'] as const
-const serviceIds = ['data-engineering', 'analytics', 'applications', 'ai', 'web-development']
+const serviceKeys = ['dataEngineering', 'analytics', 'applications'] as const
+const serviceIds = ['data-engineering', 'analytics', 'modernization']
 
 export default function ServicesSection() {
   const t = useTranslations('servicesSection')
@@ -47,7 +47,8 @@ export default function ServicesSection() {
     id: serviceIds[i],
     title: t(`items.${key}.title`),
     description: t(`items.${key}.description`),
-    icon: icons[serviceIds[i]],
+    linkLabel: t(`items.${key}.linkLabel`),
+    icon: icons[key === 'dataEngineering' ? 'data-engineering' : key],
   }))
 
   return (
@@ -74,7 +75,7 @@ export default function ServicesSection() {
                 href={`/services#${service.id}`}
                 className="inline-flex items-center gap-1 text-brand-green text-sm font-medium hover:gap-2 transition-all"
               >
-                {t('learnMore')}
+                {service.linkLabel}
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                 </svg>

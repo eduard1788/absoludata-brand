@@ -4,18 +4,14 @@ import Link from 'next/link'
 import { useTranslations } from 'next-intl'
 import { caseStudyKeys, caseStudySlugs, caseStudyCardImages } from '@/lib/caseStudies'
 
-type Stat = { value: string; label: string }
-
 export default function SuccessStories() {
   const t = useTranslations('successStories')
 
   const cases = caseStudyKeys.map(key => ({
     id: key,
     slug: caseStudySlugs[key],
-    client: t(`items.${key}.client`),
     title: t(`items.${key}.title`),
     description: t(`items.${key}.description`),
-    stats: t.raw(`items.${key}.stats`) as Stat[],
     image: caseStudyCardImages[key],
   }))
 
@@ -49,20 +45,9 @@ export default function SuccessStories() {
               </div>
 
               <div className="flex flex-col flex-1 p-6">
-                <p className="text-brand-green text-xs font-semibold uppercase tracking-widest mb-2">
-                  {item.client}
-                </p>
+                <p className="text-brand-green text-xs font-semibold uppercase tracking-widest mb-2">{t('scenarioLabel')}</p>
                 <h3 className="font-heading font-semibold text-lg text-white mb-3">{item.title}</h3>
                 <p className="text-gray-400 text-sm leading-relaxed mb-6">{item.description}</p>
-
-                <div className="grid grid-cols-3 gap-2 pt-5 mb-6 border-t border-white/5">
-                  {item.stats.map((stat, i) => (
-                    <div key={i} className="text-center">
-                      <p className="font-heading font-bold text-lg sm:text-xl text-white">{stat.value}</p>
-                      <p className="text-gray-500 text-[11px] leading-tight mt-1">{stat.label}</p>
-                    </div>
-                  ))}
-                </div>
 
                 <Link
                   href={`/success-stories/${item.slug}`}

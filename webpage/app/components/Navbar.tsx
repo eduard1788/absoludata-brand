@@ -5,6 +5,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { useTranslations } from 'next-intl'
 import { useLocaleContext } from './LocaleProvider'
+import CalendlyPopupLink from '@/components/CalendlyPopupLink'
 
 export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false)
@@ -25,13 +26,13 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-20">
 
           <Link href="/" className="flex items-center gap-3">
-            <div style={{ width: 72, height: 72, flexShrink: 0 }}>
+            <div className="h-[72px] w-[72px] shrink-0">
               <Image
-                src="/logo.png"
+                src="/logo.webp"
                 alt="Absoludata"
                 width={72}
                 height={72}
-                style={{ mixBlendMode: 'screen' }}
+                className="h-[72px] w-[72px]"
                 priority
               />
             </div>
@@ -57,12 +58,11 @@ export default function Navbar() {
             >
               {locale === 'en' ? 'ES' : 'EN'}
             </button>
-            <Link
-              href="/contact"
+            <CalendlyPopupLink
               className="px-4 py-2 bg-brand-green text-brand-navy font-semibold text-sm rounded-lg hover:bg-brand-green/90 transition-colors"
             >
               {t('cta')}
-            </Link>
+            </CalendlyPopupLink>
           </div>
 
           <button
@@ -103,13 +103,11 @@ export default function Navbar() {
               >
                 {locale === 'en' ? 'ES' : 'EN'}
               </button>
-              <Link
-                href="/contact"
+              <CalendlyPopupLink
                 className="flex-1 px-4 py-2 bg-brand-green text-brand-navy font-semibold text-sm rounded-lg text-center"
-                onClick={() => setMobileOpen(false)}
               >
                 {t('cta')}
-              </Link>
+              </CalendlyPopupLink>
             </div>
           </div>
         </div>

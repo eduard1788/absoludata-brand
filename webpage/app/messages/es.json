@@ -5,52 +5,54 @@
     "services": "Servicios",
     "blog": "Blog",
     "contact": "Contacto",
-    "cta": "Obtener Consulta"
+    "cta": "Agendemos una sesión"
   },
   "hero": {
-    "badge": "Tu Socio de Crecimiento y Automatización",
-    "title": "Vamos de la Mano Contigo para",
-    "titleHighlight": "Desatar Todo tu Potencial",
-    "subtitle": "Nos tomamos el tiempo de entender tu negocio y tus procesos, y luego trabajamos como tu socio para introducir IA y automatización que reduce costos, aumenta la productividad y hace crecer tus ingresos — en cada paso del camino.",
-    "scheduleCta": "Agendar Consulta",
+    "badge": "Soluciones prácticas para tus retos de datos",
+    "title": "Convierte los Datos de tu Negocio en",
+    "titleHighlight": "una Ventaja Competitiva",
+    "subtitle": "Ayudamos a pequeñas y medianas empresas a conectar sistemas aislados, mejorar la confiabilidad de sus datos y eliminar obstáculos en sus reportes para que sus equipos tomen decisiones con confianza.",
+    "scheduleCta": "Agendemos una sesión",
     "exploreServices": "Explorar Servicios",
-    "viewSuccessStories": "Ver Casos de Éxito",
-    "outcomeRevenue": "Crece tus Ingresos",
-    "outcomeProductivity": "Aumenta la Productividad",
-    "outcomeCost": "Reduce Costos"
+    "viewSuccessStories": "Explora los Servicios",
+    "outcomeRevenue": "",
+    "outcomeProductivity": "",
+    "outcomeCost": ""
   },
   "servicesSection": {
-    "eyebrow": "Cómo te Ayudamos a Crecer",
-    "heading": "Formas en que Trabajamos Contigo",
-    "subheading": "Cada proyecto comienza entendiendo tu negocio — luego construimos la combinación correcta de automatización, datos e IA para impulsarlo.",
-    "learnMore": "Saber más",
+    "eyebrow": "Retos de datos que ayudamos a resolver",
+    "heading": "Haz que tus datos trabajen para tu negocio",
+    "subheading": "Los sistemas desconectados, los reportes poco confiables y el trabajo manual frenan a los equipos. Atendemos los problemas de fondo para que puedan avanzar con confianza.",
     "items": {
       "dataEngineering": {
-        "title": "Automatiza el Trabajo Repetitivo",
-        "description": "Quitamos de los hombros de tu equipo los procesos manuales y repetitivos, y construimos sistemas confiables que los ejecutan por ti — liberando a tu gente para enfocarse en trabajo de mayor valor."
+        "title": "Conecta los datos de tus sistemas",
+        "linkLabel": "Explora ingeniería de datos",
+        "description": "Integra la información de los sistemas que usa tu negocio para que sea más consistente, accesible y útil."
       },
       "analytics": {
-        "title": "Convierte tus Datos en Decisiones",
-        "description": "Te ayudamos a ver con claridad lo que realmente está pasando en tu negocio, para que tomes decisiones más rápidas y seguras en lugar de basarte en suposiciones."
+        "title": "Entiende qué pasa en tu negocio",
+        "linkLabel": "Explora BI y analítica",
+        "description": "Convierte los datos importantes en reportes y dashboards claros para detectar tendencias y decidir qué hacer después."
       },
       "applications": {
-        "title": "Construimos Herramientas a la Medida de tu Forma de Trabajar",
-        "description": "Diseñamos software alrededor de tus flujos de trabajo reales, no al revés, para que tu equipo lo adopte de forma natural y logre más."
+        "title": "Mejora procesos de datos frágiles y manuales",
+        "linkLabel": "Explora mejoras para tus datos",
+        "description": "Reduce el trabajo repetitivo y los errores recurrentes al mejorar los procesos detrás de tus reportes y decisiones diarias."
       },
       "ai": {
-        "title": "Ponemos la IA a Trabajar para tu Equipo",
-        "description": "Introducimos IA práctica que reduce el esfuerzo manual y libera capacidad, ajustada a lo que tu negocio realmente necesita, no a la moda del momento."
+        "title": "Conecta Sistemas del Negocio",
+        "description": "Diseña e implementa integraciones prácticas para que la información relevante esté disponible entre los sistemas que tu empresa ya utiliza."
       },
       "webDevelopment": {
-        "title": "Muestra una Presencia Profesional en Línea",
-        "description": "Construimos una presencia digital que refleja la calidad de tu negocio y convierte visitantes en clientes."
+        "title": "Apoya las Necesidades de Reportes de tu Equipo",
+        "description": "Desarrolla bases de analítica e inteligencia de negocios alrededor de las preguntas que tu equipo necesita responder."
       }
     }
   },
   "whyAbsoludata": {
     "eyebrow": "Cómo Trabajamos",
     "heading": "Cómo Trabajamos Contigo",
-    "subheading": "Esto no es un proyecto de una sola vez. Es una asociación que comienza entendiendo tu negocio y continúa mientras creces.",
+    "subheading": "Comenzamos por entender tus sistemas y requisitos, y luego definimos un enfoque técnico concreto junto a tu equipo.",
     "items": {
       "discover": {
         "title": "Aprendemos Sobre tu Negocio",
@@ -58,15 +60,11 @@
       },
       "design": {
         "title": "Diseñamos la Solución Correcta Contigo",
-        "description": "Conectamos la automatización y la IA con los procesos que generarán mayor impacto, y construimos el plan junto a tu equipo — sin cajas negras ni fórmulas genéricas."
+        "description": "Definimos con tu equipo un enfoque apropiado de ingeniería de datos o analítica, según el entorno y las prioridades actuales."
       },
       "implement": {
         "title": "Implementamos, de la Mano",
-        "description": "Construimos e integramos la solución en la forma en que tu equipo ya trabaja, manteniéndonos cerca durante todo el proceso para que se adopte sin fricciones y realmente se use."
-      },
-      "grow": {
-        "title": "Crecemos Contigo",
-        "description": "La asociación no termina en el lanzamiento. Seguimos involucrados, medimos el impacto y seguimos ajustando a medida que tu negocio evoluciona, porque tu crecimiento es la forma en que medimos nuestro éxito."
+        "description": "Implementamos el alcance acordado y coordinamos con tu equipo el acceso, la validación, la transferencia y los siguientes pasos."
       }
     }
   },
@@ -122,16 +120,24 @@
     }
   },
   "successStories": {
-    "eyebrow": "Resultados Comprobados",
-    "heading": "Casos de Éxito",
-    "subheading": "Proyectos reales, resultados reales — un vistazo a cómo hemos ayudado a nuestros clientes a convertir datos en resultados.",
+    "eyebrow": "Escenarios Ilustrativos",
+    "heading": "Ejemplos de Retos de Datos que Podemos Explorar",
+    "subheading": "Estos son escenarios hipotéticos, no proyectos de clientes ni resultados obtenidos.",
+    "scenarioLabel": "Escenario hipotético",
+    "scenarioDisclaimer": "Este es solo un ejemplo ilustrativo. No describe a un cliente real, un proyecto completado ni un resultado medido. El alcance y los resultados reales dependen de los requisitos del negocio y se acordarían con el cliente.",
+    "scenarioTitles": {
+      "telecomChurn": "Datos de clientes para analizar la retención",
+      "retailForecasting": "Reportes de ventas e inventario",
+      "financeAutomation": "Integración de datos financieros y reportes"
+    },
+    "backToServices": "Volver a Servicios",
     "readCase": "Leer Caso de Estudio Completo",
     "backToStories": "Volver a Casos de Éxito",
     "challengeLabel": "El Desafío",
     "approachLabel": "Nuestro Enfoque",
-    "resultsLabel": "Los Resultados",
+    "resultsLabel": "Nota del Escenario",
     "technologiesLabel": "Tecnologías Utilizadas",
-    "ctaHeading": "¿Listo para Escribir tu Caso de Éxito?",
+    "ctaHeading": "Hablemos de tu Proyecto de Datos",
     "ctaSubheading": "Hablemos sobre tu desafío de datos y cómo podemos ayudarte a resolverlo.",
     "ctaButton": "Hablemos de tu Proyecto",
     "items": {
@@ -150,15 +156,30 @@
           "Dashboard operativo en tiempo real para el equipo de retención"
         ],
         "results": "Durante los primeros dos trimestres tras el lanzamiento, el operador vio una reducción medible en el churn voluntario y una asignación más saludable del presupuesto de retención hacia los suscriptores que realmente lo necesitaban.",
-        "technologies": ["Apache Kafka", "Python", "XGBoost", "Amazon Redshift", "Grafana"],
+        "technologies": [
+          "Apache Kafka",
+          "Python",
+          "XGBoost",
+          "Amazon Redshift",
+          "Grafana"
+        ],
         "testimonial": {
           "quote": "Esta plataforma le dio a nuestro equipo de retención un superpoder — ahora sabemos quién está en riesgo antes de que llame para cancelar.",
           "role": "VP de Operaciones de Clientes, cliente Operador de Telecomunicaciones"
         },
         "stats": [
-          { "value": "32%", "label": "Reducción de Churn" },
-          { "value": "2.1M", "label": "Eventos Procesados / Día" },
-          { "value": "8 sem", "label": "Tiempo de Lanzamiento" }
+          {
+            "value": "32%",
+            "label": "Reducción de Churn"
+          },
+          {
+            "value": "2.1M",
+            "label": "Eventos Procesados / Día"
+          },
+          {
+            "value": "8 sem",
+            "label": "Tiempo de Lanzamiento"
+          }
         ]
       },
       "retailForecasting": {
@@ -176,15 +197,30 @@
           "Capa de ajuste de autoservicio para equipos de merchandising"
         ],
         "results": "La asignación de inventario se convirtió en un proceso basado en datos en lugar de una adivinanza, liberando capital de trabajo y mejorando la disponibilidad en anaquel en toda la cadena.",
-        "technologies": ["dbt", "Snowflake", "Python", "Power BI", "Airflow"],
+        "technologies": [
+          "dbt",
+          "Snowflake",
+          "Python",
+          "Power BI",
+          "Airflow"
+        ],
         "testimonial": {
           "quote": "Por primera vez, nuestro equipo de merchandising confía lo suficiente en el pronóstico como para actuar sin verificarlo dos veces en una hoja de cálculo.",
           "role": "VP de Cadena de Suministro, cliente Cadena de Retail"
         },
         "stats": [
-          { "value": "24%", "label": "Menos Inventario Excedente" },
-          { "value": "120", "label": "Tiendas Integradas" },
-          { "value": "99.9%", "label": "Disponibilidad del Pipeline" }
+          {
+            "value": "24%",
+            "label": "Menos Inventario Excedente"
+          },
+          {
+            "value": "120",
+            "label": "Tiendas Integradas"
+          },
+          {
+            "value": "99.9%",
+            "label": "Disponibilidad del Pipeline"
+          }
         ]
       },
       "financeAutomation": {
@@ -202,15 +238,30 @@
           "Flujo de revisión y aprobación basado en roles"
         ],
         "results": "El ciclo de reportes se volvió drásticamente más rápido, las horas de los analistas pasaron de la reconciliación manual a la revisión de excepciones señaladas, y la firma ha mantenido un historial de cumplimiento limpio desde el lanzamiento.",
-        "technologies": ["AWS Glue", "Python", "Amazon Bedrock", "PostgreSQL", "Metabase"],
+        "technologies": [
+          "AWS Glue",
+          "Python",
+          "Amazon Bedrock",
+          "PostgreSQL",
+          "Metabase"
+        ],
         "testimonial": {
           "quote": "Antes le temíamos a la semana de reportes. Ahora es un paso de revisión, no un simulacro de incendio.",
           "role": "Jefe de Cumplimiento, cliente Firma de Servicios Financieros"
         },
         "stats": [
-          { "value": "70%", "label": "Ciclo de Reporte Más Rápido" },
-          { "value": "15+", "label": "Sistemas Integrados" },
-          { "value": "0", "label": "Hallazgos de Cumplimiento Desde el Lanzamiento" }
+          {
+            "value": "70%",
+            "label": "Ciclo de Reporte Más Rápido"
+          },
+          {
+            "value": "15+",
+            "label": "Sistemas Integrados"
+          },
+          {
+            "value": "0",
+            "label": "Hallazgos de Cumplimiento Desde el Lanzamiento"
+          }
         ]
       }
     }
@@ -258,7 +309,7 @@
     "cta": {
       "heading": "¿Listo para Hablar Sobre tus Datos?",
       "subheading": "Exploremos cómo Absoludata puede ayudar a tu organización.",
-      "button": "Agendar una Consulta"
+      "button": "Agendemos una sesión"
     },
     "items": {
       "dataPlatformReadiness": {
@@ -324,19 +375,20 @@
     }
   },
   "cta": {
-    "heading": "Construyamos Soluciones Más Inteligentes Juntos",
-    "subheading": "¿Listo para transformar tus datos en una ventaja competitiva? Agenda una consulta gratuita y exploremos cómo Absoludata puede acelerar tu transformación digital.",
-    "scheduleCta": "Agendar una Consulta Gratuita",
+    "heading": "Cuéntanos cuál es tu mayor reto con los datos",
+    "subheading": "Agenda una conversación gratuita de 30 minutos para hablar de lo que frena a tu equipo y definir un siguiente paso práctico.",
+    "scheduleCta": "Agendemos una sesión",
     "viewServices": "Ver Todos los Servicios"
   },
   "footer": {
-    "description": "Tu socio de crecimiento y automatización — ayudamos a las empresas a reducir costos, aumentar la productividad y hacer crecer sus ingresos con IA y automatización diseñadas alrededor de cómo realmente trabajan.",
-    "tagline": "Tu Socio de Crecimiento y Automatización",
+    "description": "Absoludata es una consultoría de ingeniería de datos enfocada en plataformas AWS, modernización, integraciones y BI / Analítica.",
+    "tagline": "Ingeniería de Datos en AWS · BI y Analítica",
     "copyright": "Absoludata. Todos los derechos reservados.",
     "sections": {
       "company": "Empresa",
       "services": "Servicios"
     },
+    "linkedin": "LinkedIn",
     "links": {
       "about": "Nosotros",
       "services": "Servicios",
@@ -344,105 +396,144 @@
       "contact": "Contacto",
       "dataEngineering": "Ingeniería de Datos",
       "analytics": "Analítica",
-      "applications": "Aplicaciones",
+      "applications": "Modernización de Plataformas de Datos",
       "ai": "Inteligencia Artificial",
       "webDevelopment": "Desarrollo Web"
     }
   },
   "about": {
     "eyebrow": "Nosotros",
-    "heading": "Somos tu Socio de Crecimiento",
-    "intro": "Absoludata no es un proveedor de software típico. Somos un socio cercano que conoce tu negocio a fondo y luego introduce IA y automatización que realmente marca la diferencia — más ingresos, menos costos y un equipo que logra más.",
+    "heading": "Ingeniería de Datos para Empresas en Crecimiento",
+    "intro": "Absoludata es un socio de consultoría e implementación para pequeñas y medianas empresas que necesitan plataformas de datos confiables en AWS, integraciones prácticas y BI y analítica claros.",
     "mission": {
       "heading": "Nuestra Misión",
-      "text": "Caminar de la mano con pequeñas y medianas empresas, entender sus operaciones reales, y ayudarlas a crecer a través de IA y automatización que se ajusta a cómo realmente trabajan, no una fórmula genérica."
+      "text": "Ayudar a pequeñas y medianas empresas a mejorar la confiabilidad de sus plataformas de datos y hacer que la información operativa sea accesible y útil."
     },
     "vision": {
       "heading": "Nuestra Visión",
-      "text": "Ser el socio al que las empresas acuden primero cuando están listas para crecer — reconocidos no por vender tecnología, sino por los resultados que ayudamos a crear juntos."
+      "text": "Entregar trabajo enfocado de ingeniería de datos y analítica que se adapte a los sistemas, necesidades y contexto operativo de cada cliente."
     },
     "whatWeDo": {
       "heading": "Cómo Ayudamos",
-      "subheading": "Traemos la combinación correcta de automatización, datos e IA a lo que sea que esté frenando tu negocio, siempre basados en tus operaciones reales."
+      "subheading": "Nuestro trabajo se centra en ingeniería de datos en AWS, modernización de plataformas, integraciones e inteligencia de negocios."
     },
     "cta": {
       "heading": "¿Listo para Trabajar Juntos?",
       "subheading": "Comencemos una conversación sobre cómo podemos ayudar a crecer tu negocio.",
-      "button": "Agendar una Consulta"
+      "button": "Agendemos una sesión"
     },
     "capabilities": {
-      "dataEngineering": { "title": "Automatización y Sistemas de Procesos", "desc": "Quitamos de tus manos los procesos manuales y repetitivos, y construimos sistemas confiables que los ejecutan por ti, liberando a tu equipo para enfocarse en lo que más importa." },
-      "cloudSolutions": { "title": "Infraestructura Confiable y Escalable", "desc": "Construimos sobre bases cloud modernas para que lo que entregamos siga funcionando a medida que tu negocio crece, sin sorpresas ni caídas." },
-      "analytics": { "title": "Visibilidad Clara de tu Negocio", "desc": "Convertimos datos dispersos en dashboards y reportes que tu equipo realmente puede usar para tomar decisiones más rápidas y mejores." },
-      "ai": { "title": "IA Práctica, No Moda Pasajera", "desc": "Introducimos IA donde realmente genera valor para tu negocio, ajustada a tus necesidades reales, no a la última tendencia." },
-      "telecom": { "title": "Experiencia Real en la Industria", "desc": "Hemos trabajado a fondo dentro de operaciones de telecomunicaciones, finanzas, retail y logística, así que entendemos tu mundo, no solo tus datos." },
-      "appDev": { "title": "Herramientas a la Medida de tu Equipo", "desc": "Cuando el software genérico no se ajusta a tu forma de trabajar, construimos herramientas moldeadas alrededor de tus flujos de trabajo reales." }
+      "dataEngineering": {
+        "title": "Ingeniería de Datos en AWS",
+        "desc": "Diseño y mejora de pipelines y bases de datos para un movimiento, procesamiento y acceso confiables a la información."
+      },
+      "cloudSolutions": {
+        "title": "Modernización de Plataformas de Datos",
+        "desc": "Revisión y mejora de entornos de datos existentes en AWS, considerando confiabilidad, mantenibilidad y calidad de datos."
+      },
+      "analytics": {
+        "title": "BI y Analítica",
+        "desc": "Desarrollo de bases de reportes y analítica para ayudar a los equipos a responder preguntas del negocio con datos consistentes."
+      },
+      "ai": {
+        "title": "Integraciones de Sistemas",
+        "desc": "Conexión de sistemas y fuentes de datos del negocio cuando una integración definida puede mejorar la disponibilidad y el flujo de trabajo."
+      },
+      "telecom": {
+        "title": "Implementación Práctica",
+        "desc": "Trabajo basado en los requisitos, sistemas y restricciones del cliente para definir un alcance técnico concreto."
+      },
+      "appDev": {
+        "title": "Pequeñas y Medianas Empresas",
+        "desc": "Apoyo a empresas en crecimiento que necesitan capacidad de ingeniería de datos o analítica para un proyecto definido."
+      }
     }
   },
   "services": {
     "eyebrow": "Cómo Podemos Ayudar",
-    "heading": "Lo Que Podemos Construir Juntos",
-    "intro": "Cada negocio es diferente. Así es como solemos ayudar — siempre adaptado a tus procesos reales, no a una plantilla fija.",
+    "heading": "Ingeniería de Datos en AWS y Servicios de BI",
+    "intro": "Consultoría e implementación enfocadas para pequeñas y medianas empresas, adaptadas a sus sistemas y requisitos actuales.",
     "cta": {
       "heading": "¿Listo para Comenzar?",
-      "subheading": "Cuéntanos sobre tu negocio y descubramos juntos dónde la automatización y la IA pueden ayudar más.",
-      "button": "Iniciar una Conversación"
+      "subheading": "Cuéntanos sobre tus necesidades de plataforma de datos en AWS, integración o analítica.",
+      "button": "Agendemos una sesión"
     },
-    "discussService": "Hablar sobre Este Servicio",
+    "discussService": "Agendemos una sesión sobre este servicio",
     "capabilitiesLabel": "Capacidades",
     "technologiesLabel": "Tecnologías",
     "items": {
       "dataEngineering": {
         "title": "Ingeniería de Datos",
-        "tagline": "Deja de perder horas en trabajo manual de datos.",
-        "description": "Diseñamos y construimos pipelines de datos e infraestructura confiables para que tu equipo pase menos tiempo lidiando con datos y más tiempo actuando sobre ellos — la base práctica sobre la que se construyen buenas decisiones y la automatización.",
-        "capabilities": ["Diseño y Desarrollo de Pipelines de Datos", "Arquitectura Lakehouse y Data Warehouse", "Streaming en Tiempo Real (Kafka / Kinesis)", "Automatización ETL / ELT", "Frameworks de Calidad y Gobernanza de Datos", "Migración y Modernización Cloud"]
+        "tagline": "Construye bases de datos confiables en AWS.",
+        "description": "Diseño e implementación de plataformas de datos en AWS que integran información del negocio para uso operativo y analítica.",
+        "capabilities": [
+          "Diseño y Desarrollo de Pipelines en AWS",
+          "Integración de Datos",
+          "Procesamiento ETL / ELT",
+          "Controles de Calidad de Datos",
+          "Almacenamiento de Datos",
+          "Documentación de Plataformas de Datos"
+        ]
       },
       "analytics": {
         "title": "Analítica",
-        "tagline": "Ve lo que realmente está pasando en tu negocio.",
-        "description": "Construimos plataformas de analítica que convierten números dispersos en información clara y accionable, para que las decisiones se tomen más rápido y con más confianza, no con más suposiciones.",
-        "capabilities": ["Business Intelligence y Dashboards", "Plataformas de Analítica Self-Service", "Frameworks de KPIs y Metric Stores", "Analítica de Clientes y Productos", "Analítica Predictiva y Pronósticos", "Visualización de Datos y Storytelling"]
+        "tagline": "Haz que los datos del negocio sean más fáciles de entender.",
+        "description": "Construcción de bases de BI y analítica que organizan datos para reportes y los presentan claramente a los usuarios del negocio.",
+        "capabilities": [
+          "Business Intelligence y Dashboards",
+          "Modelos de Datos para Reportes",
+          "Definición de KPIs",
+          "Visualización de Datos",
+          "Preparación de Datos para Analítica",
+          "Mejora de Dashboards"
+        ]
       },
       "applications": {
-        "title": "Aplicaciones",
-        "tagline": "Software construido alrededor de cómo tu equipo realmente trabaja.",
-        "description": "Desarrollamos aplicaciones a la medida de tus flujos de trabajo reales, no de una plantilla genérica, para que tu equipo las adopte de forma natural y logre más.",
-        "capabilities": ["Desarrollo de Aplicaciones Cloud-Native", "Ingeniería de Productos de Datos", "Diseño y Desarrollo de APIs", "Arquitectura de Microservicios", "Desarrollo de Herramientas Internas", "Ingeniería de Plataformas"]
+        "title": "Modernización de Plataformas de Datos",
+        "tagline": "Mejora los sistemas de datos de los que ya dependes.",
+        "description": "Revisión y modernización de pipelines y plataformas de datos en AWS para atender necesidades específicas de confiabilidad, calidad de datos y mantenibilidad.",
+        "capabilities": [
+          "Revisión de Plataformas AWS",
+          "Mejora de Confiabilidad de Pipelines",
+          "Mejoras de Calidad de Datos",
+          "Planificación y Apoyo para Migraciones",
+          "Monitoreo y Resolución de Problemas",
+          "Mejoras de Mantenibilidad"
+        ]
       },
       "ai": {
         "title": "Inteligencia Artificial",
         "tagline": "IA que se gana su lugar.",
         "description": "Implementamos IA donde realmente reduce esfuerzo o genera valor para tu negocio, acompañándote desde la primera idea hasta una solución que tu equipo usa de verdad, día a día.",
-        "capabilities": ["Desarrollo de Modelos de Machine Learning", "IA Generativa e Integración de LLMs", "Automatización de Flujos de Trabajo con IA", "MLOps y Monitoreo de Modelos", "Estrategia y Hoja de Ruta de IA", "Automatización Inteligente de Procesos"]
+        "capabilities": [
+          "Desarrollo de Modelos de Machine Learning",
+          "IA Generativa e Integración de LLMs",
+          "Automatización de Flujos de Trabajo con IA",
+          "MLOps y Monitoreo de Modelos",
+          "Estrategia y Hoja de Ruta de IA",
+          "Automatización Inteligente de Procesos"
+        ]
       },
       "webDevelopment": {
         "title": "Desarrollo Web",
         "tagline": "Una presencia digital que trabaja tan duro como tú.",
         "description": "Construimos sitios web rápidos y profesionales que reflejan la calidad de tu negocio y convierten visitantes en clientes — sin plantillas genéricas, sin oportunidades desperdiciadas.",
-        "capabilities": ["Diseño y Desarrollo Web Personalizado", "Diseño Responsivo y Mobile-First", "Optimización SEO y Rendimiento", "Integración de CMS (WordPress / Headless)", "Desarrollo E-Commerce", "Landing Pages y Sitios de Marketing"]
+        "capabilities": [
+          "Diseño y Desarrollo Web Personalizado",
+          "Diseño Responsivo y Mobile-First",
+          "Optimización SEO y Rendimiento",
+          "Integración de CMS (WordPress / Headless)",
+          "Desarrollo E-Commerce",
+          "Landing Pages y Sitios de Marketing"
+        ]
       }
     }
   },
   "contact": {
     "eyebrow": "Contáctanos",
-    "heading": "Hablemos",
-    "intro": "Ya sea que estés explorando un nuevo proyecto, buscando un socio tecnológico, o quieras saber cómo Absoludata puede ayudarte — nos encantaría escucharte.",
-    "options": {
-      "consultation": { "title": "Agendar una Consulta Gratuita", "desc": "Reserva una llamada de 30 minutos con nuestro equipo para discutir tus desafíos de datos y explorar cómo podemos ayudarte." },
-      "inquiry": { "title": "Consulta de Proyecto", "desc": "¿Tienes un proyecto específico en mente? Comparte los detalles y volveremos con una evaluación inicial." },
-      "questions": { "title": "Preguntas Generales", "desc": "¿Quieres saber más sobre nuestros servicios, capacidades o enfoque? Estamos felices de responder cualquier pregunta." }
-    },
-    "form": {
-      "heading": "Envíanos un Mensaje",
-      "firstName": "Nombre",
-      "lastName": "Apellido",
-      "email": "Correo Empresarial",
-      "company": "Empresa",
-      "message": "¿Cómo Podemos Ayudarte?",
-      "messagePlaceholder": "Cuéntanos sobre tu proyecto o consulta...",
-      "submit": "Enviar Mensaje",
-      "disclaimer": "Te responderemos dentro de 1 día hábil."
-    }
+    "heading": "Hablemos de tu proyecto de datos",
+    "intro": "Cuéntanos en qué está trabajando tu pequeña o mediana empresa en ingeniería de datos en AWS o inteligencia de negocios y analítica.",
+    "consultation": "Agenda una conversación introductoria gratuita de 30 minutos sobre tus necesidades de ingeniería de datos en AWS o BI y analítica.",
+    "linkedinCta": "Agendemos una sesión"
   }
 }

@@ -2,6 +2,7 @@
 
 import Link from 'next/link'
 import { useTranslations } from 'next-intl'
+import CalendlyPopupLink from '@/components/CalendlyPopupLink'
 
 export default function CTASection() {
   const t = useTranslations('cta')
@@ -19,12 +20,11 @@ export default function CTASection() {
           {t('subheading')}
         </p>
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-          <Link
-            href="/contact"
+          <CalendlyPopupLink
             className="px-8 py-4 bg-brand-green text-brand-navy font-bold text-base rounded-lg hover:bg-brand-green/90 transition-all hover:shadow-lg hover:shadow-brand-green/20"
           >
             {t('scheduleCta')}
-          </Link>
+          </CalendlyPopupLink>
           <Link
             href="/services"
             className="px-8 py-4 border border-white/20 text-white font-medium text-base rounded-lg hover:bg-white/5 transition-all"

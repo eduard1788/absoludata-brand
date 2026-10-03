@@ -1,17 +1,24 @@
 'use client'
 
-import Link from 'next/link'
 import { useTranslations } from 'next-intl'
+import CalendlyPopupLink from '@/components/CalendlyPopupLink'
 
-const serviceKeys = ['dataEngineering', 'analytics', 'applications', 'ai', 'webDevelopment'] as const
-const serviceIds = ['data-engineering', 'analytics', 'applications', 'ai', 'web-development']
+const serviceKeys = ['dataEngineering', 'analytics', 'applications'] as const
+const serviceIds = ['data-engineering', 'analytics', 'modernization']
 
 const technologies: Record<string, string[]> = {
-  dataEngineering: ['Apache Spark', 'dbt', 'Apache Kafka', 'Amazon Kinesis', 'AWS Glue', 'Snowflake', 'Databricks'],
-  analytics: ['Power BI', 'Looker', 'Apache Superset', 'Amazon QuickSight', 'Python', 'SQL'],
-  applications: ['Next.js', 'React', 'Python', 'FastAPI', 'Node.js', 'AWS Lambda', 'Docker', 'Kubernetes'],
-  ai: ['Python', 'TensorFlow', 'PyTorch', 'Amazon Bedrock', 'OpenAI', 'LangChain', 'SageMaker'],
-  webDevelopment: ['Next.js', 'React', 'TypeScript', 'Tailwind CSS', 'WordPress', 'Shopify', 'Vercel'],
+  dataEngineering: [
+    'Amazon S3',
+    'AWS Glue',
+    'AWS Lambda',
+    'Amazon Redshift',
+    'Amazon Athena',
+    'Snowflake',
+    'Databricks',
+    'dbt',
+  ],
+  analytics: ['Amazon QuickSight', 'Power BI', 'SQL'],
+  applications: ['AWS Glue', 'AWS Lambda', 'Amazon S3', 'Amazon Redshift', 'Snowflake', 'Databricks', 'dbt'],
 }
 
 export default function ServicesPage() {
@@ -52,12 +59,11 @@ export default function ServicesPage() {
                 </p>
                 <h2 className="font-heading font-bold text-3xl sm:text-4xl text-white mb-4">{service.title}</h2>
                 <p className="text-gray-400 leading-relaxed mb-6">{service.description}</p>
-                <Link
-                  href="/contact"
+                <CalendlyPopupLink
                   className="inline-block px-6 py-3 bg-brand-green text-brand-navy font-semibold text-sm rounded-lg hover:bg-brand-green/90 transition-all"
                 >
                   {t('discussService')}
-                </Link>
+                </CalendlyPopupLink>
               </div>
 
               <div className="flex flex-col gap-6">
@@ -100,12 +106,11 @@ export default function ServicesPage() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 text-center">
           <h2 className="font-heading font-bold text-4xl text-white mb-4">{t('cta.heading')}</h2>
           <p className="text-gray-400 text-lg mb-8">{t('cta.subheading')}</p>
-          <Link
-            href="/contact"
+          <CalendlyPopupLink
             className="inline-block px-8 py-4 bg-brand-green text-brand-navy font-bold text-base rounded-lg hover:bg-brand-green/90 transition-all"
           >
             {t('cta.button')}
-          </Link>
+          </CalendlyPopupLink>
         </div>
       </section>
     </div>

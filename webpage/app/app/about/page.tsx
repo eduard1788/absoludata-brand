@@ -1,7 +1,7 @@
 'use client'
 
-import Link from 'next/link'
 import { useTranslations } from 'next-intl'
+import CalendlyPopupLink from '@/components/CalendlyPopupLink'
 
 const capabilityKeys = ['dataEngineering', 'cloudSolutions', 'analytics', 'ai', 'telecom', 'appDev'] as const
 
@@ -62,12 +62,11 @@ export default function AboutPage() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 text-center">
           <h2 className="font-heading font-bold text-4xl text-white mb-4">{t('cta.heading')}</h2>
           <p className="text-gray-400 text-lg mb-8">{t('cta.subheading')}</p>
-          <Link
-            href="/contact"
+          <CalendlyPopupLink
             className="inline-block px-8 py-4 bg-brand-green text-brand-navy font-bold text-base rounded-lg hover:bg-brand-green/90 transition-all"
           >
             {t('cta.button')}
-          </Link>
+          </CalendlyPopupLink>
         </div>
       </section>
     </div>

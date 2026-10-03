@@ -26,7 +26,7 @@ const icons: Record<string, JSX.Element> = {
   ),
 }
 
-const stepKeys = ['discover', 'design', 'implement', 'grow'] as const
+const stepKeys = ['discover', 'design', 'implement'] as const
 
 export default function WhyAbsoludata() {
   const t = useTranslations('whyAbsoludata')
@@ -48,7 +48,7 @@ export default function WhyAbsoludata() {
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">{t('subheading')}</p>
         </div>
 
-        <div className="relative grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="relative grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
           <div className="hidden lg:block absolute top-6 left-[12.5%] right-[12.5%] h-px bg-gradient-to-r from-transparent via-brand-blue/30 to-transparent" />
 
           {steps.map(step => (

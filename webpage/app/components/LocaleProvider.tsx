@@ -5,7 +5,6 @@ import { NextIntlClientProvider } from 'next-intl'
 import enMessages from '@/messages/en.json'
 import esMessages from '@/messages/es.json'
 import { getCookie, setCookie } from '@/lib/cookies'
-import { detectLocaleFromIp } from '@/lib/geoLocale'
 
 type Locale = 'en' | 'es'
 
@@ -25,21 +24,6 @@ export function LocaleProvider({ children }: { children: React.ReactNode }) {
     const stored = getCookie(LOCALE_COOKIE)
     if (stored === 'en' || stored === 'es') {
       setLocaleState(stored)
-      return
-    }
-
-    const controller = new AbortController()
-    let cancelled = false
-
-    detectLocaleFromIp(controller.signal).then(detected => {
-      if (cancelled || detected === null) return
-      setLocaleState(detected)
-      setCookie(LOCALE_COOKIE, detected)
-    })
-
-    return () => {
-      cancelled = true
-      controller.abort()
     }
   }, [])
 
