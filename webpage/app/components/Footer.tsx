@@ -17,9 +17,7 @@ export default function Footer() {
   const serviceLinks = [
     { href: '/services#data-engineering', label: t('links.dataEngineering') },
     { href: '/services#analytics', label: t('links.analytics') },
-    { href: '/services#applications', label: t('links.applications') },
-    { href: '/services#ai', label: t('links.ai') },
-    { href: '/services#web-development', label: t('links.webDevelopment') },
+    { href: '/services#modernization', label: t('links.applications') },
   ]
 
   return (

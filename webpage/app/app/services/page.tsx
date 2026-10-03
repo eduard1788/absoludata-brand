@@ -17,8 +17,23 @@ const technologies: Record<string, string[]> = {
     'Databricks',
     'dbt',
   ],
-  analytics: ['Amazon QuickSight', 'Power BI', 'SQL'],
-  applications: ['AWS Glue', 'AWS Lambda', 'Amazon S3', 'Amazon Redshift', 'Snowflake', 'Databricks', 'dbt'],
+  analytics: [
+    'Amazon QuickSight',
+    'Power BI',
+    'Tableau',
+    'Looker',
+    'Qlik Sense',
+    'Sigma Computing',
+    'SQL',
+  ],
+  applications: [
+    'AWS Database Migration Service (AWS DMS)',
+    'AWS Lake Formation',
+    'AWS Glue Data Quality',
+    'Amazon CloudWatch',
+    'Terraform',
+    'AWS CloudFormation',
+  ],
 }
 
 export default function ServicesPage() {
