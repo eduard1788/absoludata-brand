@@ -1,11 +1,7 @@
 name: Deploy to AWS
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'webpage/app/**'
-      - '.github/workflows/deploy.yml'
+  workflow_dispatch:
 
 jobs:
   deploy:
