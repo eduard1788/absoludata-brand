@@ -6,33 +6,24 @@ import CalendlyPopupLink from '@/components/CalendlyPopupLink'
 const serviceKeys = ['dataEngineering', 'analytics', 'applications'] as const
 const serviceIds = ['data-engineering', 'analytics', 'modernization']
 
-const technologies: Record<string, string[]> = {
-  dataEngineering: [
-    'S3',
-    'Glue',
-    'Lambda',
-    'Redshift',
-    'Athena',
-    'Snowflake',
-    'Databricks',
-    'Airflow',
-    'dbt',
-  ],
-  analytics: [
-    'QuickSight',
-    'Power BI',
-    'Tableau',
-    'Qlik',
-    'SQL',
-  ],
-  applications: [
-    'Database Migration Service (DMS)',
-    'Lake Formation',
-    'Data Quality',
-    'CloudWatch',
-    'Terraform',
-    'CloudFormation',
-  ],
+const technologies: Record<string, { core: string[]; additional: string[] }> = {
+  dataEngineering: {
+    core: ['AWS', 'Snowflake', 'Airflow', 'dbt', 'Terraform'],
+    additional: ['Amazon S3', 'AWS Glue', 'AWS Lambda', 'Amazon Redshift', 'Amazon Athena', 'Databricks'],
+  },
+  analytics: {
+    core: ['Power BI', 'Tableau', 'Snowflake', 'dbt'],
+    additional: ['Amazon Redshift', 'Amazon Athena', 'Amazon QuickSight', 'SQL', 'Qlik'],
+  },
+  applications: {
+    core: ['AWS', 'Terraform', 'Snowflake', 'Airflow', 'dbt'],
+    additional: [
+      'AWS Database Migration Service (DMS)',
+      'AWS Lake Formation',
+      'Amazon CloudWatch',
+      'AWS CloudFormation',
+    ],
+  },
 }
 
 export default function ServicesPage() {
@@ -97,10 +88,23 @@ export default function ServicesPage() {
 
                 <div className="pt-4 border-t border-white/5">
                   <h3 className="font-heading font-semibold text-white text-sm uppercase tracking-wide mb-3">
-                    {t('technologiesLabel')}
+                    {t('coreTechnologiesLabel')}
                   </h3>
                   <div className="flex flex-wrap gap-2">
-                    {service.technologies.map(tech => (
+                  {service.technologies.core.map(tech => (
+                      <span
+                        key={tech}
+                        className="px-3 py-1 bg-brand-navy rounded-md text-xs text-gray-400 border border-white/5 font-mono"
+                      >
+                        {tech}
+                      </span>
+                    ))}
+                  </div>
+                  <h3 className="font-heading font-semibold text-white text-sm uppercase tracking-wide mt-4 mb-3">
+                    {t('additionalTechnologiesLabel')}
+                  </h3>
+                  <div className="flex flex-wrap gap-2">
+                    {service.technologies.additional.map(tech => (
                       <span
                         key={tech}
                         className="px-3 py-1 bg-brand-navy rounded-md text-xs text-gray-400 border border-white/5 font-mono"

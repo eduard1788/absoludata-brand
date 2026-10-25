@@ -20,24 +20,24 @@
     "outcomeCost": ""
   },
   "servicesSection": {
-    "eyebrow": "Retos de datos que ayudamos a resolver",
-    "heading": "Haz que tus datos trabajen para tu negocio",
-    "subheading": "Los sistemas desconectados, los reportes poco confiables y el trabajo manual frenan a los equipos. Atendemos los problemas de fondo para que puedan avanzar con confianza.",
+    "eyebrow": "Nuestros servicios",
+    "heading": "Ingeniería de Datos, Analítica y Modernización de Plataformas",
+    "subheading": "Soluciones enfocadas en AWS con Snowflake, Airflow, dbt y Terraform, y Power BI y Tableau para los reportes del negocio.",
     "items": {
       "dataEngineering": {
-        "title": "Conecta los datos de tus sistemas",
+        "title": "Ingeniería de Datos",
         "linkLabel": "Explora ingeniería de datos",
-        "description": "Integra la información de los sistemas que usa tu negocio para que sea más consistente, accesible y útil."
+        "description": "Creamos pipelines de datos confiables en AWS e integramos las fuentes del negocio para habilitar la analítica y las operaciones."
       },
       "analytics": {
-        "title": "Entiende qué pasa en tu negocio",
+        "title": "Analítica",
         "linkLabel": "Explora BI y analítica",
-        "description": "Convierte los datos importantes en reportes y dashboards claros para detectar tendencias y decidir qué hacer después."
+        "description": "Convertimos datos confiables y bien modelados en reportes y dashboards para tomar decisiones con Power BI y Tableau."
       },
       "applications": {
-        "title": "Mejora procesos de datos frágiles y manuales",
+        "title": "Modernización de Plataformas de Datos",
         "linkLabel": "Explora mejoras para tus datos",
-        "description": "Reduce el trabajo repetitivo y los errores recurrentes al mejorar los procesos detrás de tus reportes y decisiones diarias."
+        "description": "Modernizamos plataformas y pipelines de datos en AWS para mejorar su confiabilidad, mantenimiento y visibilidad de costos, gestionando la infraestructura con Terraform."
       },
       "ai": {
         "title": "Conecta Sistemas del Negocio",
@@ -451,7 +451,7 @@
   },
   "services": {
     "eyebrow": "Cómo Podemos Ayudar",
-    "heading": "Ingeniería de Datos en AWS y Servicios de BI",
+    "heading": "Ingeniería de Datos en AWS, Analítica y Modernización de Plataformas",
     "intro": "Consultoría e implementación enfocadas para pequeñas y medianas empresas, adaptadas a sus sistemas y requisitos actuales.",
     "cta": {
       "heading": "¿Listo para Comenzar?",
@@ -460,7 +460,8 @@
     },
     "discussService": "Agendemos una sesión sobre este servicio",
     "capabilitiesLabel": "Capacidades",
-    "technologiesLabel": "Tecnologías",
+    "coreTechnologiesLabel": "Tecnologías principales",
+    "additionalTechnologiesLabel": "Tecnologías complementarias",
     "principles": {
       "eyebrow": "Cómo diseñamos",
       "heading": "Seis prioridades que guían cada solución",

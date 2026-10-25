@@ -20,7 +20,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   metadataBase: new URL('https://absoludata.com'),
   title: {
-    default: 'AWS Data Engineering & BI Consulting | Absoludata',
+    default: 'AWS Data Engineering, Analytics & Modernization | Absoludata',
     template: '%s | Absoludata',
   },
   description:
@@ -29,14 +29,14 @@ export const metadata: Metadata = {
     type: 'website',
     url: 'https://absoludata.com/',
     siteName: 'Absoludata',
-    title: 'AWS Data Engineering & BI Consulting | Absoludata',
+    title: 'AWS Data Engineering, Analytics & Modernization | Absoludata',
     description:
       'AWS data engineering, data platform modernization, integrations, and BI and analytics for small and mid-sized businesses.',
     images: [{ url: '/logo.webp', alt: 'Absoludata' }],
   },
   twitter: {
     card: 'summary',
-    title: 'AWS Data Engineering & BI Consulting | Absoludata',
+    title: 'AWS Data Engineering, Analytics & Modernization | Absoludata',
     description:
       'AWS data engineering, data platform modernization, integrations, and BI and analytics for small and mid-sized businesses.',
     images: ['/logo.webp'],

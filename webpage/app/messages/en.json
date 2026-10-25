@@ -20,24 +20,24 @@
     "outcomeCost": ""
   },
   "servicesSection": {
-    "eyebrow": "Data Challenges We Solve",
-    "heading": "Make Your Data Work for the Business",
-    "subheading": "Disconnected systems, unreliable reports, and manual work slow teams down. We address the underlying data issues so people can move forward with confidence.",
+    "eyebrow": "Our Services",
+    "heading": "Data Engineering, Analytics & Platform Modernization",
+    "subheading": "AWS-first solutions built with Snowflake, Airflow, dbt, and Terraform, with Power BI and Tableau for business reporting.",
     "items": {
       "dataEngineering": {
-        "title": "Connect Disconnected Business Data",
+        "title": "Data Engineering",
         "linkLabel": "Explore data engineering",
-        "description": "Bring information together across the systems your business relies on, making it more consistent, accessible, and ready to use."
+        "description": "Build dependable AWS data pipelines and integration foundations that make business data ready for analytics and operations."
       },
       "analytics": {
-        "title": "See What's Happening in Your Business",
+        "title": "Analytics",
         "linkLabel": "Explore BI and analytics",
-        "description": "Turn the numbers that matter into clear reports and dashboards, so your team can spot trends and decide what to do next."
+        "description": "Turn trusted, well-modeled data into decision-ready reports and dashboards with Power BI and Tableau."
       },
       "applications": {
-        "title": "Fix Fragile, Manual Data Processes",
+        "title": "Data Platform Modernization",
         "linkLabel": "Explore data improvements",
-        "description": "Reduce repetitive work and recurring data issues by improving the processes behind everyday reporting and decisions."
+        "description": "Modernize AWS data platforms and pipelines to improve reliability, maintainability, and cost visibility, using Terraform to manage infrastructure."
       },
       "ai": {
         "title": "Connect Business Systems",
@@ -451,7 +451,7 @@
   },
   "services": {
     "eyebrow": "How We Can Help",
-    "heading": "AWS Data Engineering & BI Services",
+    "heading": "AWS Data Engineering, Analytics & Platform Modernization",
     "intro": "Focused consulting and implementation for small and mid-sized businesses, shaped around your existing systems and requirements.",
     "cta": {
       "heading": "Ready to Get Started?",
@@ -460,7 +460,8 @@
     },
     "discussService": "Discuss This Service in a Session",
     "capabilitiesLabel": "Capabilities",
-    "technologiesLabel": "Technologies",
+    "coreTechnologiesLabel": "Core Technologies",
+    "additionalTechnologiesLabel": "Additional Technologies",
     "principles": {
       "eyebrow": "How We Design",
       "heading": "Six Priorities Behind Every Solution",

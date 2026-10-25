@@ -4,9 +4,9 @@ import WhyAbsoludata from '@/components/WhyAbsoludata'
 import CTASection from '@/components/CTASection'
 
 export const metadata = {
-  title: 'Data Engineering & BI Consulting | Absoludata',
+  title: 'AWS Data Engineering, Analytics & Modernization | Absoludata',
   description:
-    'Solve disconnected systems, unreliable data, and reporting bottlenecks. Absoludata helps small and mid-sized businesses make better decisions with their data.',
+    'Absoludata helps small and mid-sized businesses build reliable AWS data platforms, modernize data infrastructure, and turn trusted data into useful BI and analytics.',
   alternates: { canonical: '/' },
 }
 
